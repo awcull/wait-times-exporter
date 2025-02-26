@@ -17,12 +17,12 @@ import (
 
 // Config holds database connection parameters
 type Config struct {
-	Host     string
-	Port     int
-	User     string
-	Password string
-	DBName   string
-	SSLMode  string
+	Host      string
+	Port      int
+	User      string
+	Password  string
+	DBName    string
+	SSLMode   string
 	OutputDir string
 }
 
@@ -41,12 +41,12 @@ func loadConfig() (Config, error) {
 
 	// Create config from environment variables
 	config := Config{
-		Host:     getEnvWithDefault("DB_HOST", "localhost"),
-		Port:     port,
-		User:     getEnvWithDefault("DB_USER", "postgres"),
-		Password: getEnvWithDefault("DB_PASSWORD", ""),
-		DBName:   getEnvWithDefault("DB_NAME", "hospital_db"),
-		SSLMode:  getEnvWithDefault("DB_SSLMODE", "disable"),
+		Host:      getEnvWithDefault("DB_HOST", "localhost"),
+		Port:      port,
+		User:      getEnvWithDefault("DB_USER", "postgres"),
+		Password:  getEnvWithDefault("DB_PASSWORD", ""),
+		DBName:    getEnvWithDefault("DB_NAME", "hospital_db"),
+		SSLMode:   getEnvWithDefault("DB_SSLMODE", "disable"),
 		OutputDir: getEnvWithDefault("OUTPUT_DIR", "data_exports"),
 	}
 
@@ -72,7 +72,7 @@ func main() {
 	// Connect to the database
 	connStr := fmt.Sprintf("host=%s port=%d user=%s password=%s dbname=%s sslmode=%s",
 		config.Host, config.Port, config.User, config.Password, config.DBName, config.SSLMode)
-	
+
 	db, err := sql.Open("postgres", connStr)
 	if err != nil {
 		fmt.Printf("Error connecting to database: %v\n", err)
@@ -109,7 +109,7 @@ func main() {
 		// Query the view
 		var jsonData []byte
 		query := fmt.Sprintf("SELECT json_agg(t) FROM (SELECT * FROM %s) t", view)
-		
+
 		err = db.QueryRow(query).Scan(&jsonData)
 		if err != nil {
 			fmt.Printf("Error querying view %s: %v\n", view, err)
@@ -130,13 +130,13 @@ func main() {
 		}
 
 		// Save to file
-		filename := filepath.Join(config.OutputDir, fmt.Sprintf("%s_%s.json", view, currentDate))
+		filename := filepath.Join(config.OutputDir, fmt.Sprintf("%s.json", view))
 		err = os.WriteFile(filename, prettyJSON.Bytes(), 0644)
 		if err != nil {
 			fmt.Printf("Error writing file %s: %v\n", filename, err)
 			continue
 		}
-		
+
 		fmt.Printf("Successfully exported %s to %s\n", view, filename)
 	}
 
@@ -155,7 +155,7 @@ func gitCommitAndPush(repoPath, commitMessage string) error {
 	if err != nil {
 		return fmt.Errorf("failed to get current directory: %v", err)
 	}
-	
+
 	// Change to the repository directory
 	if err := os.Chdir(repoPath); err != nil {
 		return fmt.Errorf("failed to change directory: %v", err)
