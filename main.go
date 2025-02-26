@@ -175,17 +175,6 @@ func gitCommitAndPush(repoPath, commitMessage string) error {
 		return fmt.Errorf("failed to get current directory: %v", err)
 	}
 
-	// Check if the directory is already a git repository
-	if _, err := os.Stat(filepath.Join(repoPath, ".git")); os.IsNotExist(err) {
-		// Initialize a new git repository
-		cmd := exec.Command("git", "init")
-		cmd.Dir = repoPath
-		if output, err := cmd.CombinedOutput(); err != nil {
-			return fmt.Errorf("git init failed: %v, output: %s", err, output)
-		}
-		fmt.Println("Initialized new Git repository")
-	}
-
 	// Change to the repository directory
 	if err := os.Chdir(repoPath); err != nil {
 		return fmt.Errorf("failed to change directory: %v", err)
