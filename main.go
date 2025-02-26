@@ -95,7 +95,7 @@ func main() {
 		return
 	}
 
-	// Current date for filenames and commit message
+	// Current date for commit message and JSON data
 	currentDate := time.Now().Format("2006-01-02")
 
 	// Views to query
@@ -119,6 +119,13 @@ func main() {
 		// If null result, create an empty array
 		if jsonData == nil {
 			jsonData = []byte("[]")
+		}
+
+		// Add export date field
+		jsonData, err = addExportDateToJSON(jsonData, currentDate)
+		if err != nil {
+			fmt.Printf("Error adding date to JSON for %s: %v\n", view, err)
+			continue
 		}
 
 		// Format the JSON for better readability
@@ -149,11 +156,34 @@ func main() {
 	fmt.Println("Data export and Git operations completed successfully")
 }
 
+// addExportDateToJSON adds an export_date field to the JSON data
+func addExportDateToJSON(data []byte, date string) ([]byte, error) {
+	// Create a wrapper object that contains the data and export date
+	wrapper := map[string]interface{}{
+		"data":        json.RawMessage(data),
+		"export_date": date,
+	}
+
+	// Convert the wrapper back to JSON
+	return json.Marshal(wrapper)
+}
+
 func gitCommitAndPush(repoPath, commitMessage string) error {
 	// Change to the repository directory
 	currentDir, err := os.Getwd()
 	if err != nil {
 		return fmt.Errorf("failed to get current directory: %v", err)
+	}
+
+	// Check if the directory is already a git repository
+	if _, err := os.Stat(filepath.Join(repoPath, ".git")); os.IsNotExist(err) {
+		// Initialize a new git repository
+		cmd := exec.Command("git", "init")
+		cmd.Dir = repoPath
+		if output, err := cmd.CombinedOutput(); err != nil {
+			return fmt.Errorf("git init failed: %v, output: %s", err, output)
+		}
+		fmt.Println("Initialized new Git repository")
 	}
 
 	// Change to the repository directory
