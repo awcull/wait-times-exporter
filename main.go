@@ -102,6 +102,7 @@ func main() {
 	views := []string{
 		"hospital_seven_avg_change",
 		"daily_wait_time_stats",
+		"monthly_avg_wait_times",
 	}
 
 	// Query each view and save to JSON
