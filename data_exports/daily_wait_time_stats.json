@@ -6,7 +6,7 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 0,
-      "avg_wait_time": 504,
+      "avg_wait_time": 510,
       "min_wait_time": 315,
       "max_wait_time": 660,
       "median_wait_time": 495
@@ -17,8 +17,41 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 1,
-      "avg_wait_time": 528,
+      "avg_wait_time": 543,
       "min_wait_time": 240,
+      "max_wait_time": 660,
+      "median_wait_time": 540
+    },
+    {
+      "hospital_id": 1,
+      "hospital_name": "St. Boniface Hospital",
+      "city_name": "Winnipeg",
+      "province_name": "Manitoba",
+      "day_of_week": 2,
+      "avg_wait_time": 579,
+      "min_wait_time": 390,
+      "max_wait_time": 660,
+      "median_wait_time": 600
+    },
+    {
+      "hospital_id": 1,
+      "hospital_name": "St. Boniface Hospital",
+      "city_name": "Winnipeg",
+      "province_name": "Manitoba",
+      "day_of_week": 3,
+      "avg_wait_time": 498,
+      "min_wait_time": 195,
+      "max_wait_time": 660,
+      "median_wait_time": 495
+    },
+    {
+      "hospital_id": 1,
+      "hospital_name": "St. Boniface Hospital",
+      "city_name": "Winnipeg",
+      "province_name": "Manitoba",
+      "day_of_week": 4,
+      "avg_wait_time": 514,
+      "min_wait_time": 315,
       "max_wait_time": 660,
       "median_wait_time": 518
     },
@@ -27,44 +60,11 @@
       "hospital_name": "St. Boniface Hospital",
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
-      "day_of_week": 2,
-      "avg_wait_time": 580,
-      "min_wait_time": 390,
-      "max_wait_time": 660,
-      "median_wait_time": 615
-    },
-    {
-      "hospital_id": 1,
-      "hospital_name": "St. Boniface Hospital",
-      "city_name": "Winnipeg",
-      "province_name": "Manitoba",
-      "day_of_week": 3,
-      "avg_wait_time": 462,
-      "min_wait_time": 195,
-      "max_wait_time": 660,
-      "median_wait_time": 465
-    },
-    {
-      "hospital_id": 1,
-      "hospital_name": "St. Boniface Hospital",
-      "city_name": "Winnipeg",
-      "province_name": "Manitoba",
-      "day_of_week": 4,
-      "avg_wait_time": 495,
-      "min_wait_time": 315,
-      "max_wait_time": 660,
-      "median_wait_time": 488
-    },
-    {
-      "hospital_id": 1,
-      "hospital_name": "St. Boniface Hospital",
-      "city_name": "Winnipeg",
-      "province_name": "Manitoba",
       "day_of_week": 5,
-      "avg_wait_time": 505,
+      "avg_wait_time": 533,
       "min_wait_time": 375,
-      "max_wait_time": 630,
-      "median_wait_time": 495
+      "max_wait_time": 660,
+      "median_wait_time": 525
     },
     {
       "hospital_id": 1,
@@ -72,10 +72,10 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 6,
-      "avg_wait_time": 482,
+      "avg_wait_time": 495,
       "min_wait_time": 315,
       "max_wait_time": 660,
-      "median_wait_time": 465
+      "median_wait_time": 480
     },
     {
       "hospital_id": 2,
@@ -83,10 +83,10 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 0,
-      "avg_wait_time": 335,
+      "avg_wait_time": 334,
       "min_wait_time": 30,
       "max_wait_time": 600,
-      "median_wait_time": 300
+      "median_wait_time": 315
     },
     {
       "hospital_id": 2,
@@ -94,9 +94,9 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 1,
-      "avg_wait_time": 320,
+      "avg_wait_time": 334,
       "min_wait_time": 195,
-      "max_wait_time": 555,
+      "max_wait_time": 600,
       "median_wait_time": 315
     },
     {
@@ -105,7 +105,7 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 2,
-      "avg_wait_time": 322,
+      "avg_wait_time": 333,
       "min_wait_time": 30,
       "max_wait_time": 600,
       "median_wait_time": 315
@@ -116,7 +116,7 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 3,
-      "avg_wait_time": 286,
+      "avg_wait_time": 284,
       "min_wait_time": 30,
       "max_wait_time": 600,
       "median_wait_time": 285
@@ -127,7 +127,7 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 4,
-      "avg_wait_time": 286,
+      "avg_wait_time": 283,
       "min_wait_time": 165,
       "max_wait_time": 600,
       "median_wait_time": 285
@@ -138,10 +138,10 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 5,
-      "avg_wait_time": 263,
+      "avg_wait_time": 274,
       "min_wait_time": 30,
-      "max_wait_time": 465,
-      "median_wait_time": 270
+      "max_wait_time": 600,
+      "median_wait_time": 285
     },
     {
       "hospital_id": 2,
@@ -149,9 +149,9 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 6,
-      "avg_wait_time": 279,
+      "avg_wait_time": 290,
       "min_wait_time": 30,
-      "max_wait_time": 435,
+      "max_wait_time": 600,
       "median_wait_time": 300
     },
     {
@@ -160,30 +160,8 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 0,
-      "avg_wait_time": 444,
+      "avg_wait_time": 463,
       "min_wait_time": 300,
-      "max_wait_time": 585,
-      "median_wait_time": 435
-    },
-    {
-      "hospital_id": 3,
-      "hospital_name": "Health Sciences Centre - Adult",
-      "city_name": "Winnipeg",
-      "province_name": "Manitoba",
-      "day_of_week": 1,
-      "avg_wait_time": 467,
-      "min_wait_time": 285,
-      "max_wait_time": 600,
-      "median_wait_time": 480
-    },
-    {
-      "hospital_id": 3,
-      "hospital_name": "Health Sciences Centre - Adult",
-      "city_name": "Winnipeg",
-      "province_name": "Manitoba",
-      "day_of_week": 2,
-      "avg_wait_time": 481,
-      "min_wait_time": 375,
       "max_wait_time": 600,
       "median_wait_time": 465
     },
@@ -192,11 +170,33 @@
       "hospital_name": "Health Sciences Centre - Adult",
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
+      "day_of_week": 1,
+      "avg_wait_time": 487,
+      "min_wait_time": 285,
+      "max_wait_time": 600,
+      "median_wait_time": 495
+    },
+    {
+      "hospital_id": 3,
+      "hospital_name": "Health Sciences Centre - Adult",
+      "city_name": "Winnipeg",
+      "province_name": "Manitoba",
+      "day_of_week": 2,
+      "avg_wait_time": 490,
+      "min_wait_time": 375,
+      "max_wait_time": 600,
+      "median_wait_time": 480
+    },
+    {
+      "hospital_id": 3,
+      "hospital_name": "Health Sciences Centre - Adult",
+      "city_name": "Winnipeg",
+      "province_name": "Manitoba",
       "day_of_week": 3,
-      "avg_wait_time": 462,
+      "avg_wait_time": 479,
       "min_wait_time": 330,
-      "max_wait_time": 570,
-      "median_wait_time": 450
+      "max_wait_time": 600,
+      "median_wait_time": 480
     },
     {
       "hospital_id": 3,
@@ -204,10 +204,10 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 4,
-      "avg_wait_time": 462,
+      "avg_wait_time": 472,
       "min_wait_time": 270,
-      "max_wait_time": 585,
-      "median_wait_time": 450
+      "max_wait_time": 600,
+      "median_wait_time": 465
     },
     {
       "hospital_id": 3,
@@ -215,10 +215,10 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 5,
-      "avg_wait_time": 459,
+      "avg_wait_time": 469,
       "min_wait_time": 300,
       "max_wait_time": 600,
-      "median_wait_time": 458
+      "median_wait_time": 465
     },
     {
       "hospital_id": 3,
@@ -226,10 +226,10 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 6,
-      "avg_wait_time": 451,
+      "avg_wait_time": 468,
       "min_wait_time": 285,
       "max_wait_time": 600,
-      "median_wait_time": 450
+      "median_wait_time": 465
     },
     {
       "hospital_id": 4,
@@ -237,10 +237,10 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 0,
-      "avg_wait_time": 467,
+      "avg_wait_time": 479,
       "min_wait_time": 375,
-      "max_wait_time": 690,
-      "median_wait_time": 473
+      "max_wait_time": 795,
+      "median_wait_time": 480
     },
     {
       "hospital_id": 4,
@@ -248,19 +248,8 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 1,
-      "avg_wait_time": 442,
+      "avg_wait_time": 456,
       "min_wait_time": 300,
-      "max_wait_time": 750,
-      "median_wait_time": 473
-    },
-    {
-      "hospital_id": 4,
-      "hospital_name": "Grace Hospital",
-      "city_name": "Winnipeg",
-      "province_name": "Manitoba",
-      "day_of_week": 2,
-      "avg_wait_time": 461,
-      "min_wait_time": 285,
       "max_wait_time": 750,
       "median_wait_time": 480
     },
@@ -269,8 +258,19 @@
       "hospital_name": "Grace Hospital",
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
+      "day_of_week": 2,
+      "avg_wait_time": 471,
+      "min_wait_time": 285,
+      "max_wait_time": 795,
+      "median_wait_time": 480
+    },
+    {
+      "hospital_id": 4,
+      "hospital_name": "Grace Hospital",
+      "city_name": "Winnipeg",
+      "province_name": "Manitoba",
       "day_of_week": 3,
-      "avg_wait_time": 465,
+      "avg_wait_time": 488,
       "min_wait_time": 300,
       "max_wait_time": 930,
       "median_wait_time": 480
@@ -281,7 +281,7 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 4,
-      "avg_wait_time": 459,
+      "avg_wait_time": 474,
       "min_wait_time": 240,
       "max_wait_time": 930,
       "median_wait_time": 480
@@ -292,10 +292,10 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 5,
-      "avg_wait_time": 448,
+      "avg_wait_time": 457,
       "min_wait_time": 300,
-      "max_wait_time": 720,
-      "median_wait_time": 465
+      "max_wait_time": 780,
+      "median_wait_time": 480
     },
     {
       "hospital_id": 4,
@@ -303,9 +303,9 @@
       "city_name": "Winnipeg",
       "province_name": "Manitoba",
       "day_of_week": 6,
-      "avg_wait_time": 470,
+      "avg_wait_time": 487,
       "min_wait_time": 360,
-      "max_wait_time": 675,
+      "max_wait_time": 930,
       "median_wait_time": 480
     },
     {
@@ -314,10 +314,10 @@
       "city_name": "Toronto",
       "province_name": "Ontario",
       "day_of_week": 0,
-      "avg_wait_time": 211,
+      "avg_wait_time": 213,
       "min_wait_time": 90,
       "max_wait_time": 422,
-      "median_wait_time": 174
+      "median_wait_time": 190
     },
     {
       "hospital_id": 5,
@@ -325,10 +325,10 @@
       "city_name": "Toronto",
       "province_name": "Ontario",
       "day_of_week": 1,
-      "avg_wait_time": 197,
+      "avg_wait_time": 217,
       "min_wait_time": 91,
-      "max_wait_time": 292,
-      "median_wait_time": 193
+      "max_wait_time": 376,
+      "median_wait_time": 226
     },
     {
       "hospital_id": 5,
@@ -347,10 +347,10 @@
       "city_name": "Toronto",
       "province_name": "Ontario",
       "day_of_week": 3,
-      "avg_wait_time": 241,
+      "avg_wait_time": 248,
       "min_wait_time": 80,
       "max_wait_time": 408,
-      "median_wait_time": 238
+      "median_wait_time": 248
     },
     {
       "hospital_id": 5,
@@ -358,10 +358,10 @@
       "city_name": "Toronto",
       "province_name": "Ontario",
       "day_of_week": 4,
-      "avg_wait_time": 192,
+      "avg_wait_time": 239,
       "min_wait_time": 62,
-      "max_wait_time": 397,
-      "median_wait_time": 169
+      "max_wait_time": 616,
+      "median_wait_time": 192
     },
     {
       "hospital_id": 5,
@@ -369,10 +369,10 @@
       "city_name": "Toronto",
       "province_name": "Ontario",
       "day_of_week": 5,
-      "avg_wait_time": 211,
+      "avg_wait_time": 209,
       "min_wait_time": 94,
       "max_wait_time": 346,
-      "median_wait_time": 213
+      "median_wait_time": 212
     },
     {
       "hospital_id": 5,
@@ -380,10 +380,10 @@
       "city_name": "Toronto",
       "province_name": "Ontario",
       "day_of_week": 6,
-      "avg_wait_time": 295,
+      "avg_wait_time": 286,
       "min_wait_time": 89,
       "max_wait_time": 548,
-      "median_wait_time": 295
+      "median_wait_time": 281
     },
     {
       "hospital_id": 6,
@@ -391,10 +391,10 @@
       "city_name": "Toronto",
       "province_name": "Ontario",
       "day_of_week": 0,
-      "avg_wait_time": 187,
+      "avg_wait_time": 200,
       "min_wait_time": 38,
       "max_wait_time": 383,
-      "median_wait_time": 202
+      "median_wait_time": 211
     },
     {
       "hospital_id": 6,
@@ -402,10 +402,10 @@
       "city_name": "Toronto",
       "province_name": "Ontario",
       "day_of_week": 1,
-      "avg_wait_time": 111,
+      "avg_wait_time": 119,
       "min_wait_time": 47,
       "max_wait_time": 283,
-      "median_wait_time": 99
+      "median_wait_time": 101
     },
     {
       "hospital_id": 6,
@@ -424,10 +424,10 @@
       "city_name": "Toronto",
       "province_name": "Ontario",
       "day_of_week": 3,
-      "avg_wait_time": 180,
+      "avg_wait_time": 205,
       "min_wait_time": 68,
-      "max_wait_time": 325,
-      "median_wait_time": 172
+      "max_wait_time": 345,
+      "median_wait_time": 218
     },
     {
       "hospital_id": 6,
@@ -435,10 +435,10 @@
       "city_name": "Toronto",
       "province_name": "Ontario",
       "day_of_week": 4,
-      "avg_wait_time": 150,
+      "avg_wait_time": 171,
       "min_wait_time": 48,
-      "max_wait_time": 250,
-      "median_wait_time": 140
+      "max_wait_time": 347,
+      "median_wait_time": 153
     },
     {
       "hospital_id": 6,
@@ -446,10 +446,10 @@
       "city_name": "Toronto",
       "province_name": "Ontario",
       "day_of_week": 5,
-      "avg_wait_time": 252,
+      "avg_wait_time": 235,
       "min_wait_time": 91,
       "max_wait_time": 504,
-      "median_wait_time": 242
+      "median_wait_time": 210
     },
     {
       "hospital_id": 6,
@@ -457,10 +457,10 @@
       "city_name": "Toronto",
       "province_name": "Ontario",
       "day_of_week": 6,
-      "avg_wait_time": 242,
-      "min_wait_time": 167,
-      "max_wait_time": 358,
-      "median_wait_time": 234
+      "avg_wait_time": 237,
+      "min_wait_time": 88,
+      "max_wait_time": 363,
+      "median_wait_time": 232
     },
     {
       "hospital_id": 7,
@@ -468,10 +468,10 @@
       "city_name": "Brampton",
       "province_name": "Ontario",
       "day_of_week": 0,
-      "avg_wait_time": 113,
-      "min_wait_time": 52,
+      "avg_wait_time": 101,
+      "min_wait_time": 41,
       "max_wait_time": 248,
-      "median_wait_time": 106
+      "median_wait_time": 99
     },
     {
       "hospital_id": 7,
@@ -482,7 +482,7 @@
       "avg_wait_time": 94,
       "min_wait_time": 34,
       "max_wait_time": 157,
-      "median_wait_time": 83
+      "median_wait_time": 84
     },
     {
       "hospital_id": 7,
@@ -501,10 +501,10 @@
       "city_name": "Brampton",
       "province_name": "Ontario",
       "day_of_week": 3,
-      "avg_wait_time": 108,
+      "avg_wait_time": 103,
       "min_wait_time": 27,
       "max_wait_time": 289,
-      "median_wait_time": 79
+      "median_wait_time": 78
     },
     {
       "hospital_id": 7,
@@ -512,10 +512,10 @@
       "city_name": "Brampton",
       "province_name": "Ontario",
       "day_of_week": 4,
-      "avg_wait_time": 120,
-      "min_wait_time": 57,
+      "avg_wait_time": 112,
+      "min_wait_time": 36,
       "max_wait_time": 304,
-      "median_wait_time": 113
+      "median_wait_time": 109
     },
     {
       "hospital_id": 7,
@@ -523,10 +523,10 @@
       "city_name": "Brampton",
       "province_name": "Ontario",
       "day_of_week": 5,
-      "avg_wait_time": 108,
-      "min_wait_time": 55,
+      "avg_wait_time": 106,
+      "min_wait_time": 36,
       "max_wait_time": 235,
-      "median_wait_time": 91
+      "median_wait_time": 92
     },
     {
       "hospital_id": 7,
@@ -537,7 +537,7 @@
       "avg_wait_time": 103,
       "min_wait_time": 55,
       "max_wait_time": 190,
-      "median_wait_time": 97
+      "median_wait_time": 99
     },
     {
       "hospital_id": 8,
@@ -545,10 +545,10 @@
       "city_name": "Brampton",
       "province_name": "Ontario",
       "day_of_week": 0,
-      "avg_wait_time": 61,
+      "avg_wait_time": 62,
       "min_wait_time": 21,
       "max_wait_time": 108,
-      "median_wait_time": 65
+      "median_wait_time": 67
     },
     {
       "hospital_id": 8,
@@ -578,10 +578,10 @@
       "city_name": "Brampton",
       "province_name": "Ontario",
       "day_of_week": 3,
-      "avg_wait_time": 97,
+      "avg_wait_time": 89,
       "min_wait_time": 11,
       "max_wait_time": 221,
-      "median_wait_time": 88
+      "median_wait_time": 80
     },
     {
       "hospital_id": 8,
@@ -589,10 +589,10 @@
       "city_name": "Brampton",
       "province_name": "Ontario",
       "day_of_week": 4,
-      "avg_wait_time": 93,
-      "min_wait_time": 23,
+      "avg_wait_time": 77,
+      "min_wait_time": 20,
       "max_wait_time": 157,
-      "median_wait_time": 89
+      "median_wait_time": 66
     },
     {
       "hospital_id": 8,
@@ -600,10 +600,10 @@
       "city_name": "Brampton",
       "province_name": "Ontario",
       "day_of_week": 5,
-      "avg_wait_time": 94,
-      "min_wait_time": 34,
+      "avg_wait_time": 81,
+      "min_wait_time": 22,
       "max_wait_time": 164,
-      "median_wait_time": 87
+      "median_wait_time": 74
     },
     {
       "hospital_id": 8,
@@ -622,10 +622,10 @@
       "city_name": "Abbotsford",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 578,
-      "min_wait_time": 426,
+      "avg_wait_time": 548,
+      "min_wait_time": 334,
       "max_wait_time": 666,
-      "median_wait_time": 595
+      "median_wait_time": 592
     },
     {
       "hospital_id": 12,
@@ -633,10 +633,10 @@
       "city_name": "Abbotsford",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 606,
+      "avg_wait_time": 599,
       "min_wait_time": 347,
-      "max_wait_time": 665,
-      "median_wait_time": 622
+      "max_wait_time": 669,
+      "median_wait_time": 621
     },
     {
       "hospital_id": 12,
@@ -644,10 +644,10 @@
       "city_name": "Abbotsford",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 652,
-      "min_wait_time": 588,
+      "avg_wait_time": 653,
+      "min_wait_time": 477,
       "max_wait_time": 693,
-      "median_wait_time": 655
+      "median_wait_time": 659
     },
     {
       "hospital_id": 12,
@@ -655,9 +655,9 @@
       "city_name": "Abbotsford",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 625,
-      "min_wait_time": 427,
-      "max_wait_time": 683,
+      "avg_wait_time": 607,
+      "min_wait_time": 203,
+      "max_wait_time": 702,
       "median_wait_time": 646
     },
     {
@@ -666,10 +666,10 @@
       "city_name": "Abbotsford",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 601,
+      "avg_wait_time": 605,
       "min_wait_time": 365,
       "max_wait_time": 673,
-      "median_wait_time": 625
+      "median_wait_time": 627
     },
     {
       "hospital_id": 12,
@@ -677,10 +677,10 @@
       "city_name": "Abbotsford",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 567,
-      "min_wait_time": 295,
+      "avg_wait_time": 559,
+      "min_wait_time": 256,
       "max_wait_time": 675,
-      "median_wait_time": 597
+      "median_wait_time": 607
     },
     {
       "hospital_id": 12,
@@ -688,10 +688,10 @@
       "city_name": "Abbotsford",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 523,
+      "avg_wait_time": 518,
       "min_wait_time": 104,
       "max_wait_time": 687,
-      "median_wait_time": 585
+      "median_wait_time": 575
     },
     {
       "hospital_id": 13,
@@ -699,7 +699,7 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 414,
+      "avg_wait_time": 399,
       "min_wait_time": 170,
       "max_wait_time": 708,
       "median_wait_time": 377
@@ -710,10 +710,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 379,
-      "min_wait_time": 167,
+      "avg_wait_time": 374,
+      "min_wait_time": 135,
       "max_wait_time": 706,
-      "median_wait_time": 368
+      "median_wait_time": 365
     },
     {
       "hospital_id": 13,
@@ -721,10 +721,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 366,
-      "min_wait_time": 89,
-      "max_wait_time": 587,
-      "median_wait_time": 366
+      "avg_wait_time": 382,
+      "min_wait_time": 19,
+      "max_wait_time": 717,
+      "median_wait_time": 369
     },
     {
       "hospital_id": 13,
@@ -732,10 +732,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 393,
+      "avg_wait_time": 357,
       "min_wait_time": 141,
       "max_wait_time": 673,
-      "median_wait_time": 388
+      "median_wait_time": 316
     },
     {
       "hospital_id": 13,
@@ -743,7 +743,7 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 399,
+      "avg_wait_time": 400,
       "min_wait_time": 115,
       "max_wait_time": 683,
       "median_wait_time": 388
@@ -754,10 +754,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 361,
+      "avg_wait_time": 359,
       "min_wait_time": 151,
       "max_wait_time": 705,
-      "median_wait_time": 379
+      "median_wait_time": 373
     },
     {
       "hospital_id": 13,
@@ -765,10 +765,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 373,
+      "avg_wait_time": 361,
       "min_wait_time": 95,
       "max_wait_time": 640,
-      "median_wait_time": 385
+      "median_wait_time": 364
     },
     {
       "hospital_id": 14,
@@ -776,7 +776,7 @@
       "city_name": "Burnaby",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 380,
+      "avg_wait_time": 383,
       "min_wait_time": 209,
       "max_wait_time": 503,
       "median_wait_time": 392
@@ -787,8 +787,8 @@
       "city_name": "Burnaby",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 390,
-      "min_wait_time": 281,
+      "avg_wait_time": 377,
+      "min_wait_time": 239,
       "max_wait_time": 519,
       "median_wait_time": 376
     },
@@ -798,10 +798,10 @@
       "city_name": "Burnaby",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 411,
+      "avg_wait_time": 401,
       "min_wait_time": 235,
       "max_wait_time": 516,
-      "median_wait_time": 427
+      "median_wait_time": 396
     },
     {
       "hospital_id": 14,
@@ -809,10 +809,10 @@
       "city_name": "Burnaby",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 373,
+      "avg_wait_time": 360,
       "min_wait_time": 163,
       "max_wait_time": 476,
-      "median_wait_time": 388
+      "median_wait_time": 382
     },
     {
       "hospital_id": 14,
@@ -820,10 +820,10 @@
       "city_name": "Burnaby",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 368,
+      "avg_wait_time": 371,
       "min_wait_time": 202,
       "max_wait_time": 459,
-      "median_wait_time": 398
+      "median_wait_time": 389
     },
     {
       "hospital_id": 14,
@@ -831,10 +831,10 @@
       "city_name": "Burnaby",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 288,
+      "avg_wait_time": 310,
       "min_wait_time": 127,
       "max_wait_time": 437,
-      "median_wait_time": 296
+      "median_wait_time": 318
     },
     {
       "hospital_id": 14,
@@ -842,9 +842,20 @@
       "city_name": "Burnaby",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 326,
+      "avg_wait_time": 320,
       "min_wait_time": 157,
       "max_wait_time": 444,
+      "median_wait_time": 312
+    },
+    {
+      "hospital_id": 15,
+      "hospital_name": "Chilliwack General Hospital",
+      "city_name": "Chilliwack",
+      "province_name": "British Columbia",
+      "day_of_week": 0,
+      "avg_wait_time": 338,
+      "min_wait_time": 58,
+      "max_wait_time": 527,
       "median_wait_time": 339
     },
     {
@@ -852,22 +863,11 @@
       "hospital_name": "Chilliwack General Hospital",
       "city_name": "Chilliwack",
       "province_name": "British Columbia",
-      "day_of_week": 0,
-      "avg_wait_time": 336,
-      "min_wait_time": 58,
-      "max_wait_time": 527,
-      "median_wait_time": 353
-    },
-    {
-      "hospital_id": 15,
-      "hospital_name": "Chilliwack General Hospital",
-      "city_name": "Chilliwack",
-      "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 356,
+      "avg_wait_time": 359,
       "min_wait_time": 81,
       "max_wait_time": 528,
-      "median_wait_time": 389
+      "median_wait_time": 374
     },
     {
       "hospital_id": 15,
@@ -875,10 +875,10 @@
       "city_name": "Chilliwack",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 429,
-      "min_wait_time": 247,
+      "avg_wait_time": 401,
+      "min_wait_time": 101,
       "max_wait_time": 557,
-      "median_wait_time": 424
+      "median_wait_time": 416
     },
     {
       "hospital_id": 15,
@@ -886,10 +886,10 @@
       "city_name": "Chilliwack",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 391,
+      "avg_wait_time": 377,
       "min_wait_time": 96,
       "max_wait_time": 573,
-      "median_wait_time": 396
+      "median_wait_time": 348
     },
     {
       "hospital_id": 15,
@@ -897,10 +897,10 @@
       "city_name": "Chilliwack",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 329,
+      "avg_wait_time": 318,
       "min_wait_time": 80,
       "max_wait_time": 522,
-      "median_wait_time": 347
+      "median_wait_time": 321
     },
     {
       "hospital_id": 15,
@@ -908,10 +908,10 @@
       "city_name": "Chilliwack",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 344,
+      "avg_wait_time": 326,
       "min_wait_time": 95,
       "max_wait_time": 564,
-      "median_wait_time": 359
+      "median_wait_time": 339
     },
     {
       "hospital_id": 15,
@@ -919,10 +919,10 @@
       "city_name": "Chilliwack",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 329,
+      "avg_wait_time": 306,
       "min_wait_time": 79,
       "max_wait_time": 511,
-      "median_wait_time": 335
+      "median_wait_time": 279
     },
     {
       "hospital_id": 16,
@@ -930,10 +930,10 @@
       "city_name": "Delta",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 449,
+      "avg_wait_time": 431,
       "min_wait_time": 205,
       "max_wait_time": 523,
-      "median_wait_time": 465
+      "median_wait_time": 425
     },
     {
       "hospital_id": 16,
@@ -941,9 +941,9 @@
       "city_name": "Delta",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 442,
+      "avg_wait_time": 452,
       "min_wait_time": 273,
-      "max_wait_time": 542,
+      "max_wait_time": 556,
       "median_wait_time": 466
     },
     {
@@ -952,10 +952,10 @@
       "city_name": "Delta",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 479,
+      "avg_wait_time": 484,
       "min_wait_time": 369,
       "max_wait_time": 602,
-      "median_wait_time": 463
+      "median_wait_time": 469
     },
     {
       "hospital_id": 16,
@@ -963,10 +963,10 @@
       "city_name": "Delta",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 459,
+      "avg_wait_time": 467,
       "min_wait_time": 308,
       "max_wait_time": 550,
-      "median_wait_time": 472
+      "median_wait_time": 477
     },
     {
       "hospital_id": 16,
@@ -974,10 +974,10 @@
       "city_name": "Delta",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 442,
+      "avg_wait_time": 448,
       "min_wait_time": 244,
       "max_wait_time": 573,
-      "median_wait_time": 458
+      "median_wait_time": 460
     },
     {
       "hospital_id": 16,
@@ -985,10 +985,10 @@
       "city_name": "Delta",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 425,
+      "avg_wait_time": 418,
       "min_wait_time": 265,
       "max_wait_time": 514,
-      "median_wait_time": 433
+      "median_wait_time": 429
     },
     {
       "hospital_id": 16,
@@ -996,10 +996,10 @@
       "city_name": "Delta",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 444,
+      "avg_wait_time": 446,
       "min_wait_time": 312,
       "max_wait_time": 543,
-      "median_wait_time": 457
+      "median_wait_time": 453
     },
     {
       "hospital_id": 18,
@@ -1007,10 +1007,10 @@
       "city_name": "Langley",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 483,
-      "min_wait_time": 337,
-      "max_wait_time": 629,
-      "median_wait_time": 502
+      "avg_wait_time": 496,
+      "min_wait_time": 297,
+      "max_wait_time": 678,
+      "median_wait_time": 517
     },
     {
       "hospital_id": 18,
@@ -1018,10 +1018,10 @@
       "city_name": "Langley",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 522,
-      "min_wait_time": 197,
+      "avg_wait_time": 525,
+      "min_wait_time": 125,
       "max_wait_time": 691,
-      "median_wait_time": 547
+      "median_wait_time": 581
     },
     {
       "hospital_id": 18,
@@ -1029,7 +1029,7 @@
       "city_name": "Langley",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 534,
+      "avg_wait_time": 549,
       "min_wait_time": 159,
       "max_wait_time": 689,
       "median_wait_time": 591
@@ -1040,10 +1040,10 @@
       "city_name": "Langley",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 583,
-      "min_wait_time": 245,
+      "avg_wait_time": 542,
+      "min_wait_time": 198,
       "max_wait_time": 704,
-      "median_wait_time": 632
+      "median_wait_time": 584
     },
     {
       "hospital_id": 18,
@@ -1051,10 +1051,10 @@
       "city_name": "Langley",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 485,
+      "avg_wait_time": 503,
       "min_wait_time": 179,
       "max_wait_time": 659,
-      "median_wait_time": 532
+      "median_wait_time": 540
     },
     {
       "hospital_id": 18,
@@ -1062,10 +1062,10 @@
       "city_name": "Langley",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 498,
+      "avg_wait_time": 519,
       "min_wait_time": 260,
       "max_wait_time": 667,
-      "median_wait_time": 504
+      "median_wait_time": 535
     },
     {
       "hospital_id": 18,
@@ -1073,10 +1073,10 @@
       "city_name": "Langley",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 527,
-      "min_wait_time": 183,
+      "avg_wait_time": 487,
+      "min_wait_time": 132,
       "max_wait_time": 673,
-      "median_wait_time": 552
+      "median_wait_time": 528
     },
     {
       "hospital_id": 19,
@@ -1084,10 +1084,10 @@
       "city_name": "North Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 227,
-      "min_wait_time": 142,
+      "avg_wait_time": 229,
+      "min_wait_time": 110,
       "max_wait_time": 357,
-      "median_wait_time": 221
+      "median_wait_time": 226
     },
     {
       "hospital_id": 19,
@@ -1095,10 +1095,10 @@
       "city_name": "North Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 241,
+      "avg_wait_time": 244,
       "min_wait_time": 114,
       "max_wait_time": 337,
-      "median_wait_time": 248
+      "median_wait_time": 249
     },
     {
       "hospital_id": 19,
@@ -1106,10 +1106,10 @@
       "city_name": "North Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 222,
+      "avg_wait_time": 210,
       "min_wait_time": 81,
       "max_wait_time": 347,
-      "median_wait_time": 218
+      "median_wait_time": 207
     },
     {
       "hospital_id": 19,
@@ -1117,10 +1117,10 @@
       "city_name": "North Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 220,
-      "min_wait_time": 112,
-      "max_wait_time": 308,
-      "median_wait_time": 216
+      "avg_wait_time": 215,
+      "min_wait_time": 86,
+      "max_wait_time": 352,
+      "median_wait_time": 210
     },
     {
       "hospital_id": 19,
@@ -1128,10 +1128,10 @@
       "city_name": "North Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 164,
+      "avg_wait_time": 183,
       "min_wait_time": 94,
-      "max_wait_time": 253,
-      "median_wait_time": 164
+      "max_wait_time": 332,
+      "median_wait_time": 172
     },
     {
       "hospital_id": 19,
@@ -1139,10 +1139,10 @@
       "city_name": "North Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 180,
+      "avg_wait_time": 184,
       "min_wait_time": 79,
-      "max_wait_time": 287,
-      "median_wait_time": 179
+      "max_wait_time": 292,
+      "median_wait_time": 184
     },
     {
       "hospital_id": 19,
@@ -1150,10 +1150,10 @@
       "city_name": "North Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 190,
+      "avg_wait_time": 193,
       "min_wait_time": 110,
       "max_wait_time": 276,
-      "median_wait_time": 191
+      "median_wait_time": 195
     },
     {
       "hospital_id": 20,
@@ -1164,7 +1164,7 @@
       "avg_wait_time": 145,
       "min_wait_time": 51,
       "max_wait_time": 232,
-      "median_wait_time": 156
+      "median_wait_time": 148
     },
     {
       "hospital_id": 20,
@@ -1172,10 +1172,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 126,
+      "avg_wait_time": 134,
       "min_wait_time": 48,
       "max_wait_time": 249,
-      "median_wait_time": 122
+      "median_wait_time": 129
     },
     {
       "hospital_id": 20,
@@ -1183,10 +1183,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 114,
+      "avg_wait_time": 119,
       "min_wait_time": 53,
       "max_wait_time": 190,
-      "median_wait_time": 112
+      "median_wait_time": 122
     },
     {
       "hospital_id": 20,
@@ -1194,7 +1194,7 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 119,
+      "avg_wait_time": 120,
       "min_wait_time": 29,
       "max_wait_time": 223,
       "median_wait_time": 121
@@ -1205,10 +1205,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 93,
+      "avg_wait_time": 103,
       "min_wait_time": 26,
-      "max_wait_time": 188,
-      "median_wait_time": 97
+      "max_wait_time": 213,
+      "median_wait_time": 100
     },
     {
       "hospital_id": 20,
@@ -1216,10 +1216,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 116,
-      "min_wait_time": 57,
+      "avg_wait_time": 117,
+      "min_wait_time": 50,
       "max_wait_time": 175,
-      "median_wait_time": 123
+      "median_wait_time": 122
     },
     {
       "hospital_id": 20,
@@ -1227,10 +1227,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 147,
+      "avg_wait_time": 144,
       "min_wait_time": 44,
       "max_wait_time": 257,
-      "median_wait_time": 156
+      "median_wait_time": 153
     },
     {
       "hospital_id": 21,
@@ -1238,9 +1238,31 @@
       "city_name": "White Rock",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 433,
+      "avg_wait_time": 423,
       "min_wait_time": 206,
       "max_wait_time": 600,
+      "median_wait_time": 450
+    },
+    {
+      "hospital_id": 21,
+      "hospital_name": "Peace Arch Hospital",
+      "city_name": "White Rock",
+      "province_name": "British Columbia",
+      "day_of_week": 1,
+      "avg_wait_time": 447,
+      "min_wait_time": 140,
+      "max_wait_time": 610,
+      "median_wait_time": 457
+    },
+    {
+      "hospital_id": 21,
+      "hospital_name": "Peace Arch Hospital",
+      "city_name": "White Rock",
+      "province_name": "British Columbia",
+      "day_of_week": 2,
+      "avg_wait_time": 432,
+      "min_wait_time": 166,
+      "max_wait_time": 596,
       "median_wait_time": 468
     },
     {
@@ -1248,33 +1270,11 @@
       "hospital_name": "Peace Arch Hospital",
       "city_name": "White Rock",
       "province_name": "British Columbia",
-      "day_of_week": 1,
-      "avg_wait_time": 455,
-      "min_wait_time": 140,
-      "max_wait_time": 610,
-      "median_wait_time": 475
-    },
-    {
-      "hospital_id": 21,
-      "hospital_name": "Peace Arch Hospital",
-      "city_name": "White Rock",
-      "province_name": "British Columbia",
-      "day_of_week": 2,
-      "avg_wait_time": 434,
-      "min_wait_time": 166,
-      "max_wait_time": 596,
-      "median_wait_time": 449
-    },
-    {
-      "hospital_id": 21,
-      "hospital_name": "Peace Arch Hospital",
-      "city_name": "White Rock",
-      "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 433,
+      "avg_wait_time": 425,
       "min_wait_time": 154,
       "max_wait_time": 623,
-      "median_wait_time": 501
+      "median_wait_time": 474
     },
     {
       "hospital_id": 21,
@@ -1282,10 +1282,10 @@
       "city_name": "White Rock",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 429,
+      "avg_wait_time": 434,
       "min_wait_time": 101,
       "max_wait_time": 624,
-      "median_wait_time": 489
+      "median_wait_time": 467
     },
     {
       "hospital_id": 21,
@@ -1293,10 +1293,10 @@
       "city_name": "White Rock",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 450,
+      "avg_wait_time": 445,
       "min_wait_time": 188,
       "max_wait_time": 586,
-      "median_wait_time": 511
+      "median_wait_time": 461
     },
     {
       "hospital_id": 21,
@@ -1304,10 +1304,10 @@
       "city_name": "White Rock",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 396,
+      "avg_wait_time": 401,
       "min_wait_time": 87,
       "max_wait_time": 566,
-      "median_wait_time": 378
+      "median_wait_time": 412
     },
     {
       "hospital_id": 22,
@@ -1315,10 +1315,10 @@
       "city_name": "Pemberton",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 104,
-      "min_wait_time": 62,
+      "avg_wait_time": 96,
+      "min_wait_time": 58,
       "max_wait_time": 169,
-      "median_wait_time": 96
+      "median_wait_time": 88
     },
     {
       "hospital_id": 22,
@@ -1326,10 +1326,10 @@
       "city_name": "Pemberton",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 68,
+      "avg_wait_time": 74,
       "min_wait_time": 40,
-      "max_wait_time": 110,
-      "median_wait_time": 69
+      "max_wait_time": 160,
+      "median_wait_time": 71
     },
     {
       "hospital_id": 22,
@@ -1337,10 +1337,10 @@
       "city_name": "Pemberton",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 76,
+      "avg_wait_time": 81,
       "min_wait_time": 43,
-      "max_wait_time": 157,
-      "median_wait_time": 74
+      "max_wait_time": 174,
+      "median_wait_time": 76
     },
     {
       "hospital_id": 22,
@@ -1348,10 +1348,10 @@
       "city_name": "Pemberton",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 73,
-      "min_wait_time": 49,
+      "avg_wait_time": 64,
+      "min_wait_time": 36,
       "max_wait_time": 132,
-      "median_wait_time": 70
+      "median_wait_time": 56
     },
     {
       "hospital_id": 22,
@@ -1359,10 +1359,10 @@
       "city_name": "Pemberton",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 76,
+      "avg_wait_time": 74,
       "min_wait_time": 32,
       "max_wait_time": 152,
-      "median_wait_time": 72
+      "median_wait_time": 69
     },
     {
       "hospital_id": 22,
@@ -1370,10 +1370,10 @@
       "city_name": "Pemberton",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 83,
+      "avg_wait_time": 78,
       "min_wait_time": 45,
       "max_wait_time": 180,
-      "median_wait_time": 68
+      "median_wait_time": 66
     },
     {
       "hospital_id": 22,
@@ -1383,7 +1383,7 @@
       "day_of_week": 6,
       "avg_wait_time": 80,
       "min_wait_time": 55,
-      "max_wait_time": 112,
+      "max_wait_time": 117,
       "median_wait_time": 79
     },
     {
@@ -1392,10 +1392,10 @@
       "city_name": "Richmond",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 322,
-      "min_wait_time": 158,
+      "avg_wait_time": 317,
+      "min_wait_time": 121,
       "max_wait_time": 473,
-      "median_wait_time": 321
+      "median_wait_time": 317
     },
     {
       "hospital_id": 24,
@@ -1403,10 +1403,10 @@
       "city_name": "Richmond",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 359,
-      "min_wait_time": 188,
+      "avg_wait_time": 343,
+      "min_wait_time": 110,
       "max_wait_time": 553,
-      "median_wait_time": 352
+      "median_wait_time": 345
     },
     {
       "hospital_id": 24,
@@ -1414,9 +1414,9 @@
       "city_name": "Richmond",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 311,
-      "min_wait_time": 198,
-      "max_wait_time": 448,
+      "avg_wait_time": 310,
+      "min_wait_time": 156,
+      "max_wait_time": 450,
       "median_wait_time": 310
     },
     {
@@ -1425,10 +1425,10 @@
       "city_name": "Richmond",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 312,
-      "min_wait_time": 164,
+      "avg_wait_time": 304,
+      "min_wait_time": 161,
       "max_wait_time": 491,
-      "median_wait_time": 317
+      "median_wait_time": 304
     },
     {
       "hospital_id": 24,
@@ -1436,10 +1436,10 @@
       "city_name": "Richmond",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 264,
+      "avg_wait_time": 287,
       "min_wait_time": 104,
-      "max_wait_time": 471,
-      "median_wait_time": 269
+      "max_wait_time": 523,
+      "median_wait_time": 281
     },
     {
       "hospital_id": 24,
@@ -1447,10 +1447,10 @@
       "city_name": "Richmond",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 292,
+      "avg_wait_time": 298,
       "min_wait_time": 158,
       "max_wait_time": 478,
-      "median_wait_time": 286
+      "median_wait_time": 290
     },
     {
       "hospital_id": 24,
@@ -1461,7 +1461,7 @@
       "avg_wait_time": 315,
       "min_wait_time": 169,
       "max_wait_time": 503,
-      "median_wait_time": 315
+      "median_wait_time": 314
     },
     {
       "hospital_id": 25,
@@ -1469,10 +1469,10 @@
       "city_name": "Maple Ridge",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 366,
-      "min_wait_time": 139,
+      "avg_wait_time": 352,
+      "min_wait_time": 114,
       "max_wait_time": 442,
-      "median_wait_time": 401
+      "median_wait_time": 395
     },
     {
       "hospital_id": 25,
@@ -1480,10 +1480,10 @@
       "city_name": "Maple Ridge",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 355,
+      "avg_wait_time": 343,
       "min_wait_time": 56,
       "max_wait_time": 472,
-      "median_wait_time": 392
+      "median_wait_time": 374
     },
     {
       "hospital_id": 25,
@@ -1491,10 +1491,10 @@
       "city_name": "Maple Ridge",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 357,
-      "min_wait_time": 145,
+      "avg_wait_time": 342,
+      "min_wait_time": 142,
       "max_wait_time": 450,
-      "median_wait_time": 377
+      "median_wait_time": 362
     },
     {
       "hospital_id": 25,
@@ -1502,10 +1502,10 @@
       "city_name": "Maple Ridge",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 342,
+      "avg_wait_time": 334,
       "min_wait_time": 95,
       "max_wait_time": 473,
-      "median_wait_time": 377
+      "median_wait_time": 361
     },
     {
       "hospital_id": 25,
@@ -1513,10 +1513,10 @@
       "city_name": "Maple Ridge",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 325,
+      "avg_wait_time": 331,
       "min_wait_time": 74,
       "max_wait_time": 459,
-      "median_wait_time": 359
+      "median_wait_time": 373
     },
     {
       "hospital_id": 25,
@@ -1527,7 +1527,7 @@
       "avg_wait_time": 322,
       "min_wait_time": 56,
       "max_wait_time": 437,
-      "median_wait_time": 349
+      "median_wait_time": 344
     },
     {
       "hospital_id": 25,
@@ -1535,10 +1535,10 @@
       "city_name": "Maple Ridge",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 307,
+      "avg_wait_time": 304,
       "min_wait_time": 56,
       "max_wait_time": 437,
-      "median_wait_time": 331
+      "median_wait_time": 318
     },
     {
       "hospital_id": 27,
@@ -1546,10 +1546,10 @@
       "city_name": "Sechelt",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 199,
-      "min_wait_time": 74,
+      "avg_wait_time": 185,
+      "min_wait_time": 73,
       "max_wait_time": 390,
-      "median_wait_time": 180
+      "median_wait_time": 169
     },
     {
       "hospital_id": 27,
@@ -1557,10 +1557,10 @@
       "city_name": "Sechelt",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 170,
+      "avg_wait_time": 189,
       "min_wait_time": 41,
-      "max_wait_time": 313,
-      "median_wait_time": 177
+      "max_wait_time": 417,
+      "median_wait_time": 178
     },
     {
       "hospital_id": 27,
@@ -1568,10 +1568,10 @@
       "city_name": "Sechelt",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 201,
+      "avg_wait_time": 196,
       "min_wait_time": 60,
       "max_wait_time": 418,
-      "median_wait_time": 180
+      "median_wait_time": 167
     },
     {
       "hospital_id": 27,
@@ -1579,10 +1579,10 @@
       "city_name": "Sechelt",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 171,
+      "avg_wait_time": 185,
       "min_wait_time": 58,
-      "max_wait_time": 327,
-      "median_wait_time": 154
+      "max_wait_time": 384,
+      "median_wait_time": 175
     },
     {
       "hospital_id": 27,
@@ -1590,10 +1590,10 @@
       "city_name": "Sechelt",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 195,
+      "avg_wait_time": 188,
       "min_wait_time": 62,
       "max_wait_time": 347,
-      "median_wait_time": 193
+      "median_wait_time": 181
     },
     {
       "hospital_id": 27,
@@ -1601,10 +1601,10 @@
       "city_name": "Sechelt",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 192,
+      "avg_wait_time": 213,
       "min_wait_time": 85,
-      "max_wait_time": 355,
-      "median_wait_time": 180
+      "max_wait_time": 474,
+      "median_wait_time": 189
     },
     {
       "hospital_id": 27,
@@ -1612,10 +1612,10 @@
       "city_name": "Sechelt",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 161,
+      "avg_wait_time": 172,
       "min_wait_time": 64,
-      "max_wait_time": 331,
-      "median_wait_time": 141
+      "max_wait_time": 403,
+      "median_wait_time": 150
     },
     {
       "hospital_id": 28,
@@ -1623,10 +1623,10 @@
       "city_name": "Squamish",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 109,
+      "avg_wait_time": 107,
       "min_wait_time": 48,
       "max_wait_time": 193,
-      "median_wait_time": 99
+      "median_wait_time": 100
     },
     {
       "hospital_id": 28,
@@ -1634,10 +1634,10 @@
       "city_name": "Squamish",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 135,
+      "avg_wait_time": 138,
       "min_wait_time": 49,
       "max_wait_time": 291,
-      "median_wait_time": 120
+      "median_wait_time": 124
     },
     {
       "hospital_id": 28,
@@ -1645,9 +1645,31 @@
       "city_name": "Squamish",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 117,
+      "avg_wait_time": 123,
       "min_wait_time": 53,
       "max_wait_time": 254,
+      "median_wait_time": 115
+    },
+    {
+      "hospital_id": 28,
+      "hospital_name": "Squamish General Hospital",
+      "city_name": "Squamish",
+      "province_name": "British Columbia",
+      "day_of_week": 3,
+      "avg_wait_time": 110,
+      "min_wait_time": 50,
+      "max_wait_time": 342,
+      "median_wait_time": 86
+    },
+    {
+      "hospital_id": 28,
+      "hospital_name": "Squamish General Hospital",
+      "city_name": "Squamish",
+      "province_name": "British Columbia",
+      "day_of_week": 4,
+      "avg_wait_time": 115,
+      "min_wait_time": 51,
+      "max_wait_time": 300,
       "median_wait_time": 109
     },
     {
@@ -1655,33 +1677,11 @@
       "hospital_name": "Squamish General Hospital",
       "city_name": "Squamish",
       "province_name": "British Columbia",
-      "day_of_week": 3,
-      "avg_wait_time": 122,
-      "min_wait_time": 50,
-      "max_wait_time": 342,
-      "median_wait_time": 92
-    },
-    {
-      "hospital_id": 28,
-      "hospital_name": "Squamish General Hospital",
-      "city_name": "Squamish",
-      "province_name": "British Columbia",
-      "day_of_week": 4,
-      "avg_wait_time": 114,
-      "min_wait_time": 51,
-      "max_wait_time": 300,
-      "median_wait_time": 95
-    },
-    {
-      "hospital_id": 28,
-      "hospital_name": "Squamish General Hospital",
-      "city_name": "Squamish",
-      "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 109,
+      "avg_wait_time": 114,
       "min_wait_time": 53,
-      "max_wait_time": 209,
-      "median_wait_time": 99
+      "max_wait_time": 235,
+      "median_wait_time": 105
     },
     {
       "hospital_id": 28,
@@ -1689,7 +1689,7 @@
       "city_name": "Squamish",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 108,
+      "avg_wait_time": 109,
       "min_wait_time": 46,
       "max_wait_time": 230,
       "median_wait_time": 100
@@ -1700,10 +1700,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 150,
-      "min_wait_time": 77,
-      "max_wait_time": 298,
-      "median_wait_time": 140
+      "avg_wait_time": 155,
+      "min_wait_time": 75,
+      "max_wait_time": 305,
+      "median_wait_time": 142
     },
     {
       "hospital_id": 29,
@@ -1711,8 +1711,8 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 136,
-      "min_wait_time": 74,
+      "avg_wait_time": 134,
+      "min_wait_time": 71,
       "max_wait_time": 223,
       "median_wait_time": 129
     },
@@ -1722,10 +1722,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 127,
+      "avg_wait_time": 131,
       "min_wait_time": 37,
       "max_wait_time": 257,
-      "median_wait_time": 122
+      "median_wait_time": 129
     },
     {
       "hospital_id": 29,
@@ -1733,10 +1733,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 139,
-      "min_wait_time": 63,
+      "avg_wait_time": 138,
+      "min_wait_time": 41,
       "max_wait_time": 236,
-      "median_wait_time": 137
+      "median_wait_time": 140
     },
     {
       "hospital_id": 29,
@@ -1744,10 +1744,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 115,
+      "avg_wait_time": 119,
       "min_wait_time": 68,
-      "max_wait_time": 171,
-      "median_wait_time": 115
+      "max_wait_time": 208,
+      "median_wait_time": 116
     },
     {
       "hospital_id": 29,
@@ -1755,7 +1755,7 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 119,
+      "avg_wait_time": 120,
       "min_wait_time": 41,
       "max_wait_time": 225,
       "median_wait_time": 114
@@ -1768,8 +1768,8 @@
       "day_of_week": 6,
       "avg_wait_time": 122,
       "min_wait_time": 61,
-      "max_wait_time": 186,
-      "median_wait_time": 121
+      "max_wait_time": 192,
+      "median_wait_time": 120
     },
     {
       "hospital_id": 30,
@@ -1777,10 +1777,10 @@
       "city_name": "Surrey",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 585,
+      "avg_wait_time": 592,
       "min_wait_time": 504,
-      "max_wait_time": 630,
-      "median_wait_time": 589
+      "max_wait_time": 642,
+      "median_wait_time": 598
     },
     {
       "hospital_id": 30,
@@ -1788,10 +1788,10 @@
       "city_name": "Surrey",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 576,
+      "avg_wait_time": 556,
       "min_wait_time": 197,
       "max_wait_time": 656,
-      "median_wait_time": 611
+      "median_wait_time": 607
     },
     {
       "hospital_id": 30,
@@ -1799,10 +1799,10 @@
       "city_name": "Surrey",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 613,
-      "min_wait_time": 471,
+      "avg_wait_time": 608,
+      "min_wait_time": 455,
       "max_wait_time": 661,
-      "median_wait_time": 614
+      "median_wait_time": 620
     },
     {
       "hospital_id": 30,
@@ -1810,10 +1810,10 @@
       "city_name": "Surrey",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 585,
-      "min_wait_time": 419,
+      "avg_wait_time": 564,
+      "min_wait_time": 357,
       "max_wait_time": 660,
-      "median_wait_time": 621
+      "median_wait_time": 603
     },
     {
       "hospital_id": 30,
@@ -1821,10 +1821,10 @@
       "city_name": "Surrey",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 560,
+      "avg_wait_time": 552,
       "min_wait_time": 261,
       "max_wait_time": 659,
-      "median_wait_time": 611
+      "median_wait_time": 605
     },
     {
       "hospital_id": 30,
@@ -1832,10 +1832,10 @@
       "city_name": "Surrey",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 592,
+      "avg_wait_time": 587,
       "min_wait_time": 349,
       "max_wait_time": 661,
-      "median_wait_time": 613
+      "median_wait_time": 610
     },
     {
       "hospital_id": 30,
@@ -1843,10 +1843,10 @@
       "city_name": "Surrey",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 518,
+      "avg_wait_time": 531,
       "min_wait_time": 196,
       "max_wait_time": 664,
-      "median_wait_time": 539
+      "median_wait_time": 549
     },
     {
       "hospital_id": 31,
@@ -1854,10 +1854,10 @@
       "city_name": "Surrey",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 247,
+      "avg_wait_time": 259,
       "min_wait_time": 148,
       "max_wait_time": 314,
-      "median_wait_time": 256
+      "median_wait_time": 269
     },
     {
       "hospital_id": 31,
@@ -1865,10 +1865,10 @@
       "city_name": "Surrey",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 263,
+      "avg_wait_time": 258,
       "min_wait_time": 87,
       "max_wait_time": 311,
-      "median_wait_time": 277
+      "median_wait_time": 273
     },
     {
       "hospital_id": 31,
@@ -1876,10 +1876,10 @@
       "city_name": "Surrey",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 269,
-      "min_wait_time": 180,
+      "avg_wait_time": 260,
+      "min_wait_time": 148,
       "max_wait_time": 327,
-      "median_wait_time": 271
+      "median_wait_time": 266
     },
     {
       "hospital_id": 31,
@@ -1887,7 +1887,7 @@
       "city_name": "Surrey",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 255,
+      "avg_wait_time": 253,
       "min_wait_time": 156,
       "max_wait_time": 320,
       "median_wait_time": 258
@@ -1898,10 +1898,10 @@
       "city_name": "Surrey",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 249,
-      "min_wait_time": 181,
+      "avg_wait_time": 245,
+      "min_wait_time": 137,
       "max_wait_time": 317,
-      "median_wait_time": 264
+      "median_wait_time": 254
     },
     {
       "hospital_id": 31,
@@ -1909,10 +1909,10 @@
       "city_name": "Surrey",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 235,
+      "avg_wait_time": 237,
       "min_wait_time": 144,
       "max_wait_time": 310,
-      "median_wait_time": 239
+      "median_wait_time": 242
     },
     {
       "hospital_id": 31,
@@ -1920,7 +1920,7 @@
       "city_name": "Surrey",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 236,
+      "avg_wait_time": 239,
       "min_wait_time": 149,
       "max_wait_time": 308,
       "median_wait_time": 243
@@ -1931,10 +1931,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 190,
+      "avg_wait_time": 186,
       "min_wait_time": 71,
       "max_wait_time": 278,
-      "median_wait_time": 211
+      "median_wait_time": 205
     },
     {
       "hospital_id": 32,
@@ -1942,10 +1942,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 226,
+      "avg_wait_time": 224,
       "min_wait_time": 87,
       "max_wait_time": 341,
-      "median_wait_time": 221
+      "median_wait_time": 222
     },
     {
       "hospital_id": 32,
@@ -1953,10 +1953,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 192,
+      "avg_wait_time": 211,
       "min_wait_time": 130,
-      "max_wait_time": 263,
-      "median_wait_time": 187
+      "max_wait_time": 336,
+      "median_wait_time": 199
     },
     {
       "hospital_id": 32,
@@ -1964,10 +1964,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 162,
+      "avg_wait_time": 184,
       "min_wait_time": 97,
-      "max_wait_time": 244,
-      "median_wait_time": 163
+      "max_wait_time": 336,
+      "median_wait_time": 173
     },
     {
       "hospital_id": 32,
@@ -1975,7 +1975,7 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 158,
+      "avg_wait_time": 154,
       "min_wait_time": 54,
       "max_wait_time": 268,
       "median_wait_time": 151
@@ -1986,10 +1986,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 196,
+      "avg_wait_time": 189,
       "min_wait_time": 73,
       "max_wait_time": 328,
-      "median_wait_time": 201
+      "median_wait_time": 185
     },
     {
       "hospital_id": 32,
@@ -1997,10 +1997,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 172,
+      "avg_wait_time": 180,
       "min_wait_time": 69,
-      "max_wait_time": 247,
-      "median_wait_time": 176
+      "max_wait_time": 286,
+      "median_wait_time": 181
     },
     {
       "hospital_id": 33,
@@ -2008,10 +2008,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 295,
-      "min_wait_time": 162,
+      "avg_wait_time": 281,
+      "min_wait_time": 132,
       "max_wait_time": 441,
-      "median_wait_time": 292
+      "median_wait_time": 282
     },
     {
       "hospital_id": 33,
@@ -2019,10 +2019,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 1,
-      "avg_wait_time": 297,
-      "min_wait_time": 141,
+      "avg_wait_time": 294,
+      "min_wait_time": 135,
       "max_wait_time": 513,
-      "median_wait_time": 307
+      "median_wait_time": 294
     },
     {
       "hospital_id": 33,
@@ -2030,10 +2030,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 319,
-      "min_wait_time": 188,
-      "max_wait_time": 520,
-      "median_wait_time": 301
+      "avg_wait_time": 331,
+      "min_wait_time": 173,
+      "max_wait_time": 575,
+      "median_wait_time": 304
     },
     {
       "hospital_id": 33,
@@ -2041,10 +2041,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 335,
+      "avg_wait_time": 329,
       "min_wait_time": 182,
-      "max_wait_time": 498,
-      "median_wait_time": 331
+      "max_wait_time": 604,
+      "median_wait_time": 312
     },
     {
       "hospital_id": 33,
@@ -2052,10 +2052,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 292,
+      "avg_wait_time": 298,
       "min_wait_time": 113,
       "max_wait_time": 499,
-      "median_wait_time": 293
+      "median_wait_time": 297
     },
     {
       "hospital_id": 33,
@@ -2063,10 +2063,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 295,
+      "avg_wait_time": 292,
       "min_wait_time": 166,
       "max_wait_time": 484,
-      "median_wait_time": 287
+      "median_wait_time": 275
     },
     {
       "hospital_id": 33,
@@ -2074,10 +2074,10 @@
       "city_name": "Vancouver",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 277,
+      "avg_wait_time": 276,
       "min_wait_time": 137,
       "max_wait_time": 461,
-      "median_wait_time": 265
+      "median_wait_time": 261
     },
     {
       "hospital_id": 34,
@@ -2085,10 +2085,10 @@
       "city_name": "Whistler",
       "province_name": "British Columbia",
       "day_of_week": 0,
-      "avg_wait_time": 56,
+      "avg_wait_time": 58,
       "min_wait_time": 22,
       "max_wait_time": 158,
-      "median_wait_time": 50
+      "median_wait_time": 53
     },
     {
       "hospital_id": 34,
@@ -2097,9 +2097,9 @@
       "province_name": "British Columbia",
       "day_of_week": 1,
       "avg_wait_time": 71,
-      "min_wait_time": 38,
+      "min_wait_time": 31,
       "max_wait_time": 127,
-      "median_wait_time": 68
+      "median_wait_time": 69
     },
     {
       "hospital_id": 34,
@@ -2107,10 +2107,10 @@
       "city_name": "Whistler",
       "province_name": "British Columbia",
       "day_of_week": 2,
-      "avg_wait_time": 73,
+      "avg_wait_time": 75,
       "min_wait_time": 41,
-      "max_wait_time": 115,
-      "median_wait_time": 74
+      "max_wait_time": 117,
+      "median_wait_time": 76
     },
     {
       "hospital_id": 34,
@@ -2118,10 +2118,10 @@
       "city_name": "Whistler",
       "province_name": "British Columbia",
       "day_of_week": 3,
-      "avg_wait_time": 50,
-      "min_wait_time": 29,
+      "avg_wait_time": 48,
+      "min_wait_time": 27,
       "max_wait_time": 93,
-      "median_wait_time": 47
+      "median_wait_time": 45
     },
     {
       "hospital_id": 34,
@@ -2129,10 +2129,10 @@
       "city_name": "Whistler",
       "province_name": "British Columbia",
       "day_of_week": 4,
-      "avg_wait_time": 44,
+      "avg_wait_time": 50,
       "min_wait_time": 17,
-      "max_wait_time": 77,
-      "median_wait_time": 41
+      "max_wait_time": 87,
+      "median_wait_time": 48
     },
     {
       "hospital_id": 34,
@@ -2140,7 +2140,7 @@
       "city_name": "Whistler",
       "province_name": "British Columbia",
       "day_of_week": 5,
-      "avg_wait_time": 51,
+      "avg_wait_time": 50,
       "min_wait_time": 23,
       "max_wait_time": 98,
       "median_wait_time": 45
@@ -2151,10 +2151,10 @@
       "city_name": "Whistler",
       "province_name": "British Columbia",
       "day_of_week": 6,
-      "avg_wait_time": 55,
+      "avg_wait_time": 53,
       "min_wait_time": 27,
       "max_wait_time": 92,
-      "median_wait_time": 52
+      "median_wait_time": 49
     },
     {
       "hospital_id": 56,
@@ -2162,9 +2162,9 @@
       "city_name": "Red Deer",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 227,
+      "avg_wait_time": 234,
       "min_wait_time": 30,
-      "max_wait_time": 419,
+      "max_wait_time": 440,
       "median_wait_time": 233
     },
     {
@@ -2173,10 +2173,10 @@
       "city_name": "Red Deer",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 212,
+      "avg_wait_time": 225,
       "min_wait_time": 48,
-      "max_wait_time": 480,
-      "median_wait_time": 194
+      "max_wait_time": 509,
+      "median_wait_time": 200
     },
     {
       "hospital_id": 56,
@@ -2184,10 +2184,10 @@
       "city_name": "Red Deer",
       "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 254,
+      "avg_wait_time": 264,
       "min_wait_time": 43,
       "max_wait_time": 734,
-      "median_wait_time": 233
+      "median_wait_time": 239
     },
     {
       "hospital_id": 56,
@@ -2195,10 +2195,10 @@
       "city_name": "Red Deer",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 246,
+      "avg_wait_time": 256,
       "min_wait_time": 124,
       "max_wait_time": 655,
-      "median_wait_time": 219
+      "median_wait_time": 227
     },
     {
       "hospital_id": 56,
@@ -2206,7 +2206,7 @@
       "city_name": "Red Deer",
       "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 242,
+      "avg_wait_time": 239,
       "min_wait_time": 81,
       "max_wait_time": 565,
       "median_wait_time": 223
@@ -2217,10 +2217,10 @@
       "city_name": "Red Deer",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 256,
-      "min_wait_time": 112,
+      "avg_wait_time": 243,
+      "min_wait_time": 30,
       "max_wait_time": 621,
-      "median_wait_time": 231
+      "median_wait_time": 227
     },
     {
       "hospital_id": 56,
@@ -2228,10 +2228,10 @@
       "city_name": "Red Deer",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 227,
+      "avg_wait_time": 237,
       "min_wait_time": 30,
       "max_wait_time": 625,
-      "median_wait_time": 213
+      "median_wait_time": 218
     },
     {
       "hospital_id": 57,
@@ -2239,10 +2239,10 @@
       "city_name": "Calgary",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 153,
+      "avg_wait_time": 170,
       "min_wait_time": 47,
       "max_wait_time": 391,
-      "median_wait_time": 143
+      "median_wait_time": 156
     },
     {
       "hospital_id": 57,
@@ -2253,7 +2253,7 @@
       "avg_wait_time": 165,
       "min_wait_time": 30,
       "max_wait_time": 433,
-      "median_wait_time": 151
+      "median_wait_time": 153
     },
     {
       "hospital_id": 57,
@@ -2261,42 +2261,9 @@
       "city_name": "Calgary",
       "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 137,
+      "avg_wait_time": 145,
       "min_wait_time": 30,
-      "max_wait_time": 344,
-      "median_wait_time": 132
-    },
-    {
-      "hospital_id": 57,
-      "hospital_name": "Alberta Children's Hospital",
-      "city_name": "Calgary",
-      "province_name": "Alberta",
-      "day_of_week": 3,
-      "avg_wait_time": 96,
-      "min_wait_time": 30,
-      "max_wait_time": 263,
-      "median_wait_time": 98
-    },
-    {
-      "hospital_id": 57,
-      "hospital_name": "Alberta Children's Hospital",
-      "city_name": "Calgary",
-      "province_name": "Alberta",
-      "day_of_week": 4,
-      "avg_wait_time": 107,
-      "min_wait_time": 30,
-      "max_wait_time": 216,
-      "median_wait_time": 110
-    },
-    {
-      "hospital_id": 57,
-      "hospital_name": "Alberta Children's Hospital",
-      "city_name": "Calgary",
-      "province_name": "Alberta",
-      "day_of_week": 5,
-      "avg_wait_time": 135,
-      "min_wait_time": 30,
-      "max_wait_time": 374,
+      "max_wait_time": 414,
       "median_wait_time": 136
     },
     {
@@ -2304,11 +2271,44 @@
       "hospital_name": "Alberta Children's Hospital",
       "city_name": "Calgary",
       "province_name": "Alberta",
-      "day_of_week": 6,
-      "avg_wait_time": 151,
+      "day_of_week": 3,
+      "avg_wait_time": 137,
       "min_wait_time": 30,
-      "max_wait_time": 369,
-      "median_wait_time": 140
+      "max_wait_time": 600,
+      "median_wait_time": 118
+    },
+    {
+      "hospital_id": 57,
+      "hospital_name": "Alberta Children's Hospital",
+      "city_name": "Calgary",
+      "province_name": "Alberta",
+      "day_of_week": 4,
+      "avg_wait_time": 122,
+      "min_wait_time": 30,
+      "max_wait_time": 361,
+      "median_wait_time": 117
+    },
+    {
+      "hospital_id": 57,
+      "hospital_name": "Alberta Children's Hospital",
+      "city_name": "Calgary",
+      "province_name": "Alberta",
+      "day_of_week": 5,
+      "avg_wait_time": 137,
+      "min_wait_time": 30,
+      "max_wait_time": 374,
+      "median_wait_time": 139
+    },
+    {
+      "hospital_id": 57,
+      "hospital_name": "Alberta Children's Hospital",
+      "city_name": "Calgary",
+      "province_name": "Alberta",
+      "day_of_week": 6,
+      "avg_wait_time": 163,
+      "min_wait_time": 30,
+      "max_wait_time": 728,
+      "median_wait_time": 146
     },
     {
       "hospital_id": 58,
@@ -2316,10 +2316,10 @@
       "city_name": "Calgary",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 269,
+      "avg_wait_time": 279,
       "min_wait_time": 52,
       "max_wait_time": 775,
-      "median_wait_time": 243
+      "median_wait_time": 253
     },
     {
       "hospital_id": 58,
@@ -2327,31 +2327,9 @@
       "city_name": "Calgary",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 253,
+      "avg_wait_time": 259,
       "min_wait_time": 52,
       "max_wait_time": 645,
-      "median_wait_time": 234
-    },
-    {
-      "hospital_id": 58,
-      "hospital_name": "Foothills Medical Centre",
-      "city_name": "Calgary",
-      "province_name": "Alberta",
-      "day_of_week": 2,
-      "avg_wait_time": 256,
-      "min_wait_time": 30,
-      "max_wait_time": 624,
-      "median_wait_time": 248
-    },
-    {
-      "hospital_id": 58,
-      "hospital_name": "Foothills Medical Centre",
-      "city_name": "Calgary",
-      "province_name": "Alberta",
-      "day_of_week": 3,
-      "avg_wait_time": 249,
-      "min_wait_time": 83,
-      "max_wait_time": 373,
       "median_wait_time": 251
     },
     {
@@ -2359,11 +2337,33 @@
       "hospital_name": "Foothills Medical Centre",
       "city_name": "Calgary",
       "province_name": "Alberta",
+      "day_of_week": 2,
+      "avg_wait_time": 268,
+      "min_wait_time": 30,
+      "max_wait_time": 624,
+      "median_wait_time": 260
+    },
+    {
+      "hospital_id": 58,
+      "hospital_name": "Foothills Medical Centre",
+      "city_name": "Calgary",
+      "province_name": "Alberta",
+      "day_of_week": 3,
+      "avg_wait_time": 284,
+      "min_wait_time": 83,
+      "max_wait_time": 471,
+      "median_wait_time": 286
+    },
+    {
+      "hospital_id": 58,
+      "hospital_name": "Foothills Medical Centre",
+      "city_name": "Calgary",
+      "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 259,
+      "avg_wait_time": 272,
       "min_wait_time": 137,
-      "max_wait_time": 378,
-      "median_wait_time": 248
+      "max_wait_time": 500,
+      "median_wait_time": 262
     },
     {
       "hospital_id": 58,
@@ -2371,10 +2371,10 @@
       "city_name": "Calgary",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 301,
+      "avg_wait_time": 295,
       "min_wait_time": 117,
       "max_wait_time": 500,
-      "median_wait_time": 305
+      "median_wait_time": 285
     },
     {
       "hospital_id": 58,
@@ -2382,10 +2382,10 @@
       "city_name": "Calgary",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 272,
+      "avg_wait_time": 277,
       "min_wait_time": 134,
       "max_wait_time": 547,
-      "median_wait_time": 245
+      "median_wait_time": 250
     },
     {
       "hospital_id": 59,
@@ -2393,10 +2393,10 @@
       "city_name": "Calgary",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 235,
+      "avg_wait_time": 257,
       "min_wait_time": 105,
-      "max_wait_time": 457,
-      "median_wait_time": 230
+      "max_wait_time": 647,
+      "median_wait_time": 248
     },
     {
       "hospital_id": 59,
@@ -2404,10 +2404,10 @@
       "city_name": "Calgary",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 221,
+      "avg_wait_time": 236,
       "min_wait_time": 63,
       "max_wait_time": 872,
-      "median_wait_time": 203
+      "median_wait_time": 217
     },
     {
       "hospital_id": 59,
@@ -2415,9 +2415,20 @@
       "city_name": "Calgary",
       "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 247,
+      "avg_wait_time": 266,
       "min_wait_time": 53,
-      "max_wait_time": 491,
+      "max_wait_time": 728,
+      "median_wait_time": 254
+    },
+    {
+      "hospital_id": 59,
+      "hospital_name": "Peter Lougheed Centre",
+      "city_name": "Calgary",
+      "province_name": "Alberta",
+      "day_of_week": 3,
+      "avg_wait_time": 243,
+      "min_wait_time": 32,
+      "max_wait_time": 681,
       "median_wait_time": 229
     },
     {
@@ -2425,22 +2436,11 @@
       "hospital_name": "Peter Lougheed Centre",
       "city_name": "Calgary",
       "province_name": "Alberta",
-      "day_of_week": 3,
-      "avg_wait_time": 213,
-      "min_wait_time": 32,
-      "max_wait_time": 358,
-      "median_wait_time": 209
-    },
-    {
-      "hospital_id": 59,
-      "hospital_name": "Peter Lougheed Centre",
-      "city_name": "Calgary",
-      "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 251,
+      "avg_wait_time": 273,
       "min_wait_time": 78,
       "max_wait_time": 563,
-      "median_wait_time": 258
+      "median_wait_time": 275
     },
     {
       "hospital_id": 59,
@@ -2448,10 +2448,10 @@
       "city_name": "Calgary",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 280,
-      "min_wait_time": 122,
-      "max_wait_time": 595,
-      "median_wait_time": 278
+      "avg_wait_time": 278,
+      "min_wait_time": 99,
+      "max_wait_time": 788,
+      "median_wait_time": 266
     },
     {
       "hospital_id": 59,
@@ -2459,130 +2459,86 @@
       "city_name": "Calgary",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 281,
+      "avg_wait_time": 296,
       "min_wait_time": 119,
       "max_wait_time": 715,
-      "median_wait_time": 267
-    },
-    {
-      "hospital_id": 60,
-      "hospital_name": "Rockyview General Hospital",
-      "city_name": "Calgary",
-      "province_name": "Alberta",
-      "day_of_week": 0,
-      "avg_wait_time": 203,
-      "min_wait_time": 61,
-      "max_wait_time": 500,
-      "median_wait_time": 191
-    },
-    {
-      "hospital_id": 60,
-      "hospital_name": "Rockyview General Hospital",
-      "city_name": "Calgary",
-      "province_name": "Alberta",
-      "day_of_week": 1,
-      "avg_wait_time": 197,
-      "min_wait_time": 50,
-      "max_wait_time": 477,
-      "median_wait_time": 167
-    },
-    {
-      "hospital_id": 60,
-      "hospital_name": "Rockyview General Hospital",
-      "city_name": "Calgary",
-      "province_name": "Alberta",
-      "day_of_week": 2,
-      "avg_wait_time": 191,
-      "min_wait_time": 30,
-      "max_wait_time": 480,
-      "median_wait_time": 177
-    },
-    {
-      "hospital_id": 60,
-      "hospital_name": "Rockyview General Hospital",
-      "city_name": "Calgary",
-      "province_name": "Alberta",
-      "day_of_week": 3,
-      "avg_wait_time": 173,
-      "min_wait_time": 30,
-      "max_wait_time": 350,
-      "median_wait_time": 172
-    },
-    {
-      "hospital_id": 60,
-      "hospital_name": "Rockyview General Hospital",
-      "city_name": "Calgary",
-      "province_name": "Alberta",
-      "day_of_week": 4,
-      "avg_wait_time": 190,
-      "min_wait_time": 30,
-      "max_wait_time": 458,
-      "median_wait_time": 188
-    },
-    {
-      "hospital_id": 60,
-      "hospital_name": "Rockyview General Hospital",
-      "city_name": "Calgary",
-      "province_name": "Alberta",
-      "day_of_week": 5,
-      "avg_wait_time": 253,
-      "min_wait_time": 102,
-      "max_wait_time": 479,
-      "median_wait_time": 254
-    },
-    {
-      "hospital_id": 60,
-      "hospital_name": "Rockyview General Hospital",
-      "city_name": "Calgary",
-      "province_name": "Alberta",
-      "day_of_week": 6,
-      "avg_wait_time": 241,
-      "min_wait_time": 62,
-      "max_wait_time": 541,
-      "median_wait_time": 236
-    },
-    {
-      "hospital_id": 61,
-      "hospital_name": "South Health Campus",
-      "city_name": "Calgary",
-      "province_name": "Alberta",
-      "day_of_week": 0,
-      "avg_wait_time": 296,
-      "min_wait_time": 153,
-      "max_wait_time": 595,
       "median_wait_time": 287
     },
     {
-      "hospital_id": 61,
-      "hospital_name": "South Health Campus",
+      "hospital_id": 60,
+      "hospital_name": "Rockyview General Hospital",
+      "city_name": "Calgary",
+      "province_name": "Alberta",
+      "day_of_week": 0,
+      "avg_wait_time": 213,
+      "min_wait_time": 61,
+      "max_wait_time": 500,
+      "median_wait_time": 216
+    },
+    {
+      "hospital_id": 60,
+      "hospital_name": "Rockyview General Hospital",
       "city_name": "Calgary",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 260,
-      "min_wait_time": 79,
-      "max_wait_time": 763,
-      "median_wait_time": 211
+      "avg_wait_time": 214,
+      "min_wait_time": 50,
+      "max_wait_time": 574,
+      "median_wait_time": 183
     },
     {
-      "hospital_id": 61,
-      "hospital_name": "South Health Campus",
+      "hospital_id": 60,
+      "hospital_name": "Rockyview General Hospital",
       "city_name": "Calgary",
       "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 285,
-      "min_wait_time": 61,
-      "max_wait_time": 664,
-      "median_wait_time": 315
+      "avg_wait_time": 211,
+      "min_wait_time": 30,
+      "max_wait_time": 483,
+      "median_wait_time": 208
     },
     {
-      "hospital_id": 61,
-      "hospital_name": "South Health Campus",
+      "hospital_id": 60,
+      "hospital_name": "Rockyview General Hospital",
       "city_name": "Calgary",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 263,
-      "min_wait_time": 123,
-      "max_wait_time": 533,
+      "avg_wait_time": 211,
+      "min_wait_time": 30,
+      "max_wait_time": 465,
+      "median_wait_time": 199
+    },
+    {
+      "hospital_id": 60,
+      "hospital_name": "Rockyview General Hospital",
+      "city_name": "Calgary",
+      "province_name": "Alberta",
+      "day_of_week": 4,
+      "avg_wait_time": 216,
+      "min_wait_time": 30,
+      "max_wait_time": 501,
+      "median_wait_time": 215
+    },
+    {
+      "hospital_id": 60,
+      "hospital_name": "Rockyview General Hospital",
+      "city_name": "Calgary",
+      "province_name": "Alberta",
+      "day_of_week": 5,
+      "avg_wait_time": 254,
+      "min_wait_time": 101,
+      "max_wait_time": 479,
+      "median_wait_time": 250
+    },
+    {
+      "hospital_id": 60,
+      "hospital_name": "Rockyview General Hospital",
+      "city_name": "Calgary",
+      "province_name": "Alberta",
+      "day_of_week": 6,
+      "avg_wait_time": 246,
+      "min_wait_time": 62,
+      "max_wait_time": 541,
       "median_wait_time": 245
     },
     {
@@ -2590,11 +2546,55 @@
       "hospital_name": "South Health Campus",
       "city_name": "Calgary",
       "province_name": "Alberta",
+      "day_of_week": 0,
+      "avg_wait_time": 318,
+      "min_wait_time": 153,
+      "max_wait_time": 617,
+      "median_wait_time": 308
+    },
+    {
+      "hospital_id": 61,
+      "hospital_name": "South Health Campus",
+      "city_name": "Calgary",
+      "province_name": "Alberta",
+      "day_of_week": 1,
+      "avg_wait_time": 289,
+      "min_wait_time": 79,
+      "max_wait_time": 763,
+      "median_wait_time": 256
+    },
+    {
+      "hospital_id": 61,
+      "hospital_name": "South Health Campus",
+      "city_name": "Calgary",
+      "province_name": "Alberta",
+      "day_of_week": 2,
+      "avg_wait_time": 323,
+      "min_wait_time": 61,
+      "max_wait_time": 664,
+      "median_wait_time": 347
+    },
+    {
+      "hospital_id": 61,
+      "hospital_name": "South Health Campus",
+      "city_name": "Calgary",
+      "province_name": "Alberta",
+      "day_of_week": 3,
+      "avg_wait_time": 313,
+      "min_wait_time": 123,
+      "max_wait_time": 609,
+      "median_wait_time": 308
+    },
+    {
+      "hospital_id": 61,
+      "hospital_name": "South Health Campus",
+      "city_name": "Calgary",
+      "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 242,
+      "avg_wait_time": 253,
       "min_wait_time": 73,
-      "max_wait_time": 492,
-      "median_wait_time": 228
+      "max_wait_time": 540,
+      "median_wait_time": 231
     },
     {
       "hospital_id": 61,
@@ -2602,10 +2602,10 @@
       "city_name": "Calgary",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 246,
+      "avg_wait_time": 282,
       "min_wait_time": 109,
-      "max_wait_time": 602,
-      "median_wait_time": 241
+      "max_wait_time": 621,
+      "median_wait_time": 261
     },
     {
       "hospital_id": 61,
@@ -2613,10 +2613,10 @@
       "city_name": "Calgary",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 338,
+      "avg_wait_time": 344,
       "min_wait_time": 120,
       "max_wait_time": 696,
-      "median_wait_time": 305
+      "median_wait_time": 316
     },
     {
       "hospital_id": 62,
@@ -2624,10 +2624,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 195,
+      "avg_wait_time": 194,
       "min_wait_time": 30,
       "max_wait_time": 397,
-      "median_wait_time": 176
+      "median_wait_time": 181
     },
     {
       "hospital_id": 62,
@@ -2635,7 +2635,7 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 192,
+      "avg_wait_time": 193,
       "min_wait_time": 30,
       "max_wait_time": 370,
       "median_wait_time": 212
@@ -2646,10 +2646,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 195,
+      "avg_wait_time": 198,
       "min_wait_time": 30,
       "max_wait_time": 494,
-      "median_wait_time": 151
+      "median_wait_time": 173
     },
     {
       "hospital_id": 62,
@@ -2657,10 +2657,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 145,
+      "avg_wait_time": 166,
       "min_wait_time": 30,
       "max_wait_time": 367,
-      "median_wait_time": 140
+      "median_wait_time": 180
     },
     {
       "hospital_id": 62,
@@ -2668,7 +2668,7 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 187,
+      "avg_wait_time": 190,
       "min_wait_time": 30,
       "max_wait_time": 390,
       "median_wait_time": 180
@@ -2682,7 +2682,7 @@
       "avg_wait_time": 193,
       "min_wait_time": 30,
       "max_wait_time": 522,
-      "median_wait_time": 207
+      "median_wait_time": 205
     },
     {
       "hospital_id": 62,
@@ -2690,10 +2690,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 199,
+      "avg_wait_time": 190,
       "min_wait_time": 30,
       "max_wait_time": 522,
-      "median_wait_time": 181
+      "median_wait_time": 180
     },
     {
       "hospital_id": 63,
@@ -2701,10 +2701,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 245,
+      "avg_wait_time": 241,
       "min_wait_time": 38,
       "max_wait_time": 593,
-      "median_wait_time": 228
+      "median_wait_time": 238
     },
     {
       "hospital_id": 63,
@@ -2712,10 +2712,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 258,
+      "avg_wait_time": 284,
       "min_wait_time": 30,
-      "max_wait_time": 593,
-      "median_wait_time": 219
+      "max_wait_time": 698,
+      "median_wait_time": 248
     },
     {
       "hospital_id": 63,
@@ -2726,7 +2726,7 @@
       "avg_wait_time": 259,
       "min_wait_time": 30,
       "max_wait_time": 596,
-      "median_wait_time": 213
+      "median_wait_time": 226
     },
     {
       "hospital_id": 63,
@@ -2734,10 +2734,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 200,
+      "avg_wait_time": 234,
       "min_wait_time": 30,
-      "max_wait_time": 437,
-      "median_wait_time": 193
+      "max_wait_time": 547,
+      "median_wait_time": 218
     },
     {
       "hospital_id": 63,
@@ -2745,10 +2745,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 235,
+      "avg_wait_time": 239,
       "min_wait_time": 30,
       "max_wait_time": 564,
-      "median_wait_time": 216
+      "median_wait_time": 235
     },
     {
       "hospital_id": 63,
@@ -2756,10 +2756,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 265,
+      "avg_wait_time": 270,
       "min_wait_time": 30,
       "max_wait_time": 533,
-      "median_wait_time": 244
+      "median_wait_time": 271
     },
     {
       "hospital_id": 63,
@@ -2767,10 +2767,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 211,
+      "avg_wait_time": 208,
       "min_wait_time": 30,
       "max_wait_time": 540,
-      "median_wait_time": 198
+      "median_wait_time": 197
     },
     {
       "hospital_id": 64,
@@ -2778,7 +2778,7 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 324,
+      "avg_wait_time": 318,
       "min_wait_time": 134,
       "max_wait_time": 608,
       "median_wait_time": 321
@@ -2789,10 +2789,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 297,
+      "avg_wait_time": 299,
       "min_wait_time": 62,
-      "max_wait_time": 473,
-      "median_wait_time": 305
+      "max_wait_time": 483,
+      "median_wait_time": 309
     },
     {
       "hospital_id": 64,
@@ -2800,10 +2800,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 283,
+      "avg_wait_time": 286,
       "min_wait_time": 33,
       "max_wait_time": 613,
-      "median_wait_time": 282
+      "median_wait_time": 296
     },
     {
       "hospital_id": 64,
@@ -2811,10 +2811,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 247,
+      "avg_wait_time": 282,
       "min_wait_time": 64,
-      "max_wait_time": 517,
-      "median_wait_time": 247
+      "max_wait_time": 580,
+      "median_wait_time": 282
     },
     {
       "hospital_id": 64,
@@ -2822,10 +2822,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 297,
+      "avg_wait_time": 293,
       "min_wait_time": 63,
       "max_wait_time": 534,
-      "median_wait_time": 305
+      "median_wait_time": 300
     },
     {
       "hospital_id": 64,
@@ -2833,10 +2833,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 269,
+      "avg_wait_time": 270,
       "min_wait_time": 65,
       "max_wait_time": 554,
-      "median_wait_time": 269
+      "median_wait_time": 274
     },
     {
       "hospital_id": 64,
@@ -2844,10 +2844,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 278,
+      "avg_wait_time": 277,
       "min_wait_time": 30,
       "max_wait_time": 573,
-      "median_wait_time": 278
+      "median_wait_time": 279
     },
     {
       "hospital_id": 65,
@@ -2855,10 +2855,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 192,
+      "avg_wait_time": 204,
       "min_wait_time": 30,
       "max_wait_time": 532,
-      "median_wait_time": 172
+      "median_wait_time": 188
     },
     {
       "hospital_id": 65,
@@ -2866,7 +2866,7 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 226,
+      "avg_wait_time": 227,
       "min_wait_time": 55,
       "max_wait_time": 592,
       "median_wait_time": 209
@@ -2877,10 +2877,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 209,
+      "avg_wait_time": 219,
       "min_wait_time": 30,
       "max_wait_time": 502,
-      "median_wait_time": 181
+      "median_wait_time": 192
     },
     {
       "hospital_id": 65,
@@ -2888,10 +2888,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 147,
+      "avg_wait_time": 187,
       "min_wait_time": 30,
-      "max_wait_time": 371,
-      "median_wait_time": 131
+      "max_wait_time": 470,
+      "median_wait_time": 167
     },
     {
       "hospital_id": 65,
@@ -2899,10 +2899,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 164,
+      "avg_wait_time": 180,
       "min_wait_time": 30,
-      "max_wait_time": 366,
-      "median_wait_time": 154
+      "max_wait_time": 467,
+      "median_wait_time": 172
     },
     {
       "hospital_id": 65,
@@ -2910,10 +2910,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 188,
+      "avg_wait_time": 202,
       "min_wait_time": 30,
-      "max_wait_time": 390,
-      "median_wait_time": 180
+      "max_wait_time": 467,
+      "median_wait_time": 186
     },
     {
       "hospital_id": 65,
@@ -2921,10 +2921,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 189,
+      "avg_wait_time": 197,
       "min_wait_time": 30,
-      "max_wait_time": 376,
-      "median_wait_time": 181
+      "max_wait_time": 450,
+      "median_wait_time": 192
     },
     {
       "hospital_id": 66,
@@ -2932,10 +2932,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 348,
+      "avg_wait_time": 356,
       "min_wait_time": 98,
       "max_wait_time": 831,
-      "median_wait_time": 295
+      "median_wait_time": 342
     },
     {
       "hospital_id": 66,
@@ -2943,10 +2943,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 403,
+      "avg_wait_time": 400,
       "min_wait_time": 86,
       "max_wait_time": 670,
-      "median_wait_time": 432
+      "median_wait_time": 415
     },
     {
       "hospital_id": 66,
@@ -2954,10 +2954,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 393,
+      "avg_wait_time": 384,
       "min_wait_time": 181,
       "max_wait_time": 648,
-      "median_wait_time": 385
+      "median_wait_time": 373
     },
     {
       "hospital_id": 66,
@@ -2965,10 +2965,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 378,
+      "avg_wait_time": 390,
       "min_wait_time": 159,
       "max_wait_time": 615,
-      "median_wait_time": 362
+      "median_wait_time": 391
     },
     {
       "hospital_id": 66,
@@ -2976,10 +2976,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 358,
-      "min_wait_time": 199,
-      "max_wait_time": 562,
-      "median_wait_time": 350
+      "avg_wait_time": 356,
+      "min_wait_time": 144,
+      "max_wait_time": 567,
+      "median_wait_time": 347
     },
     {
       "hospital_id": 66,
@@ -2987,10 +2987,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 432,
+      "avg_wait_time": 444,
       "min_wait_time": 233,
       "max_wait_time": 879,
-      "median_wait_time": 436
+      "median_wait_time": 442
     },
     {
       "hospital_id": 66,
@@ -2998,10 +2998,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 324,
+      "avg_wait_time": 328,
       "min_wait_time": 136,
       "max_wait_time": 711,
-      "median_wait_time": 297
+      "median_wait_time": 308
     },
     {
       "hospital_id": 67,
@@ -3009,9 +3009,9 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 270,
+      "avg_wait_time": 272,
       "min_wait_time": 68,
-      "max_wait_time": 420,
+      "max_wait_time": 522,
       "median_wait_time": 278
     },
     {
@@ -3020,10 +3020,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 252,
+      "avg_wait_time": 246,
       "min_wait_time": 51,
       "max_wait_time": 522,
-      "median_wait_time": 226
+      "median_wait_time": 227
     },
     {
       "hospital_id": 67,
@@ -3032,7 +3032,7 @@
       "province_name": "Alberta",
       "day_of_week": 2,
       "avg_wait_time": 227,
-      "min_wait_time": 75,
+      "min_wait_time": 63,
       "max_wait_time": 458,
       "median_wait_time": 206
     },
@@ -3042,20 +3042,9 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 210,
+      "avg_wait_time": 230,
       "min_wait_time": 76,
       "max_wait_time": 426,
-      "median_wait_time": 208
-    },
-    {
-      "hospital_id": 67,
-      "hospital_name": "Northeast Community Health Centre",
-      "city_name": "Edmonton",
-      "province_name": "Alberta",
-      "day_of_week": 4,
-      "avg_wait_time": 239,
-      "min_wait_time": 129,
-      "max_wait_time": 402,
       "median_wait_time": 231
     },
     {
@@ -3063,11 +3052,22 @@
       "hospital_name": "Northeast Community Health Centre",
       "city_name": "Edmonton",
       "province_name": "Alberta",
+      "day_of_week": 4,
+      "avg_wait_time": 250,
+      "min_wait_time": 114,
+      "max_wait_time": 408,
+      "median_wait_time": 242
+    },
+    {
+      "hospital_id": 67,
+      "hospital_name": "Northeast Community Health Centre",
+      "city_name": "Edmonton",
+      "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 207,
+      "avg_wait_time": 227,
       "min_wait_time": 51,
       "max_wait_time": 492,
-      "median_wait_time": 187
+      "median_wait_time": 216
     },
     {
       "hospital_id": 67,
@@ -3078,28 +3078,6 @@
       "avg_wait_time": 256,
       "min_wait_time": 50,
       "max_wait_time": 442,
-      "median_wait_time": 261
-    },
-    {
-      "hospital_id": 68,
-      "hospital_name": "Royal Alexandra Hospital",
-      "city_name": "Edmonton",
-      "province_name": "Alberta",
-      "day_of_week": 0,
-      "avg_wait_time": 253,
-      "min_wait_time": 101,
-      "max_wait_time": 468,
-      "median_wait_time": 260
-    },
-    {
-      "hospital_id": 68,
-      "hospital_name": "Royal Alexandra Hospital",
-      "city_name": "Edmonton",
-      "province_name": "Alberta",
-      "day_of_week": 1,
-      "avg_wait_time": 270,
-      "min_wait_time": 160,
-      "max_wait_time": 481,
       "median_wait_time": 258
     },
     {
@@ -3107,11 +3085,33 @@
       "hospital_name": "Royal Alexandra Hospital",
       "city_name": "Edmonton",
       "province_name": "Alberta",
+      "day_of_week": 0,
+      "avg_wait_time": 268,
+      "min_wait_time": 101,
+      "max_wait_time": 468,
+      "median_wait_time": 278
+    },
+    {
+      "hospital_id": 68,
+      "hospital_name": "Royal Alexandra Hospital",
+      "city_name": "Edmonton",
+      "province_name": "Alberta",
+      "day_of_week": 1,
+      "avg_wait_time": 275,
+      "min_wait_time": 160,
+      "max_wait_time": 481,
+      "median_wait_time": 260
+    },
+    {
+      "hospital_id": 68,
+      "hospital_name": "Royal Alexandra Hospital",
+      "city_name": "Edmonton",
+      "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 260,
+      "avg_wait_time": 274,
       "min_wait_time": 115,
-      "max_wait_time": 447,
-      "median_wait_time": 255
+      "max_wait_time": 470,
+      "median_wait_time": 268
     },
     {
       "hospital_id": 68,
@@ -3119,10 +3119,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 234,
+      "avg_wait_time": 264,
       "min_wait_time": 110,
-      "max_wait_time": 458,
-      "median_wait_time": 225
+      "max_wait_time": 487,
+      "median_wait_time": 243
     },
     {
       "hospital_id": 68,
@@ -3130,10 +3130,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 259,
-      "min_wait_time": 174,
-      "max_wait_time": 377,
-      "median_wait_time": 257
+      "avg_wait_time": 260,
+      "min_wait_time": 173,
+      "max_wait_time": 381,
+      "median_wait_time": 259
     },
     {
       "hospital_id": 68,
@@ -3141,10 +3141,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 248,
+      "avg_wait_time": 256,
       "min_wait_time": 86,
       "max_wait_time": 419,
-      "median_wait_time": 249
+      "median_wait_time": 256
     },
     {
       "hospital_id": 68,
@@ -3152,10 +3152,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 212,
+      "avg_wait_time": 236,
       "min_wait_time": 54,
-      "max_wait_time": 431,
-      "median_wait_time": 201
+      "max_wait_time": 473,
+      "median_wait_time": 218
     },
     {
       "hospital_id": 69,
@@ -3163,10 +3163,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 201,
+      "avg_wait_time": 214,
       "min_wait_time": 30,
       "max_wait_time": 474,
-      "median_wait_time": 190
+      "median_wait_time": 201
     },
     {
       "hospital_id": 69,
@@ -3174,10 +3174,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 203,
+      "avg_wait_time": 218,
       "min_wait_time": 30,
-      "max_wait_time": 410,
-      "median_wait_time": 211
+      "max_wait_time": 458,
+      "median_wait_time": 215
     },
     {
       "hospital_id": 69,
@@ -3185,10 +3185,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 202,
+      "avg_wait_time": 212,
       "min_wait_time": 30,
       "max_wait_time": 464,
-      "median_wait_time": 177
+      "median_wait_time": 193
     },
     {
       "hospital_id": 69,
@@ -3196,10 +3196,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 151,
+      "avg_wait_time": 159,
       "min_wait_time": 30,
-      "max_wait_time": 285,
-      "median_wait_time": 152
+      "max_wait_time": 343,
+      "median_wait_time": 161
     },
     {
       "hospital_id": 69,
@@ -3207,10 +3207,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 176,
+      "avg_wait_time": 187,
       "min_wait_time": 30,
       "max_wait_time": 354,
-      "median_wait_time": 179
+      "median_wait_time": 183
     },
     {
       "hospital_id": 69,
@@ -3218,7 +3218,7 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 189,
+      "avg_wait_time": 187,
       "min_wait_time": 30,
       "max_wait_time": 484,
       "median_wait_time": 177
@@ -3229,10 +3229,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 175,
+      "avg_wait_time": 191,
       "min_wait_time": 30,
-      "max_wait_time": 283,
-      "median_wait_time": 171
+      "max_wait_time": 425,
+      "median_wait_time": 186
     },
     {
       "hospital_id": 70,
@@ -3240,10 +3240,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 245,
-      "min_wait_time": 64,
-      "max_wait_time": 494,
-      "median_wait_time": 219
+      "avg_wait_time": 264,
+      "min_wait_time": 50,
+      "max_wait_time": 515,
+      "median_wait_time": 244
     },
     {
       "hospital_id": 70,
@@ -3251,10 +3251,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 223,
-      "min_wait_time": 50,
-      "max_wait_time": 435,
-      "median_wait_time": 214
+      "avg_wait_time": 227,
+      "min_wait_time": 49,
+      "max_wait_time": 476,
+      "median_wait_time": 217
     },
     {
       "hospital_id": 70,
@@ -3262,10 +3262,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 222,
+      "avg_wait_time": 228,
       "min_wait_time": 30,
       "max_wait_time": 487,
-      "median_wait_time": 199
+      "median_wait_time": 203
     },
     {
       "hospital_id": 70,
@@ -3273,10 +3273,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 165,
+      "avg_wait_time": 200,
       "min_wait_time": 30,
-      "max_wait_time": 371,
-      "median_wait_time": 152
+      "max_wait_time": 458,
+      "median_wait_time": 199
     },
     {
       "hospital_id": 70,
@@ -3284,10 +3284,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 183,
+      "avg_wait_time": 205,
       "min_wait_time": 30,
-      "max_wait_time": 357,
-      "median_wait_time": 188
+      "max_wait_time": 371,
+      "median_wait_time": 217
     },
     {
       "hospital_id": 70,
@@ -3295,10 +3295,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 191,
+      "avg_wait_time": 214,
       "min_wait_time": 30,
-      "max_wait_time": 411,
-      "median_wait_time": 182
+      "max_wait_time": 422,
+      "median_wait_time": 211
     },
     {
       "hospital_id": 70,
@@ -3306,10 +3306,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 203,
-      "min_wait_time": 50,
+      "avg_wait_time": 206,
+      "min_wait_time": 30,
       "max_wait_time": 566,
-      "median_wait_time": 182
+      "median_wait_time": 197
     },
     {
       "hospital_id": 71,
@@ -3317,10 +3317,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 247,
+      "avg_wait_time": 246,
       "min_wait_time": 112,
       "max_wait_time": 428,
-      "median_wait_time": 234
+      "median_wait_time": 238
     },
     {
       "hospital_id": 71,
@@ -3328,10 +3328,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 244,
+      "avg_wait_time": 255,
       "min_wait_time": 88,
-      "max_wait_time": 530,
-      "median_wait_time": 221
+      "max_wait_time": 588,
+      "median_wait_time": 222
     },
     {
       "hospital_id": 71,
@@ -3339,7 +3339,7 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 238,
+      "avg_wait_time": 241,
       "min_wait_time": 32,
       "max_wait_time": 453,
       "median_wait_time": 247
@@ -3350,10 +3350,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 195,
+      "avg_wait_time": 247,
       "min_wait_time": 43,
-      "max_wait_time": 409,
-      "median_wait_time": 213
+      "max_wait_time": 765,
+      "median_wait_time": 249
     },
     {
       "hospital_id": 71,
@@ -3361,10 +3361,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 221,
+      "avg_wait_time": 258,
       "min_wait_time": 30,
-      "max_wait_time": 472,
-      "median_wait_time": 226
+      "max_wait_time": 650,
+      "median_wait_time": 243
     },
     {
       "hospital_id": 71,
@@ -3372,10 +3372,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 240,
+      "avg_wait_time": 265,
       "min_wait_time": 44,
-      "max_wait_time": 419,
-      "median_wait_time": 228
+      "max_wait_time": 592,
+      "median_wait_time": 262
     },
     {
       "hospital_id": 71,
@@ -3383,10 +3383,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 215,
+      "avg_wait_time": 224,
       "min_wait_time": 82,
-      "max_wait_time": 358,
-      "median_wait_time": 215
+      "max_wait_time": 424,
+      "median_wait_time": 222
     },
     {
       "hospital_id": 72,
@@ -3397,7 +3397,7 @@
       "avg_wait_time": 335,
       "min_wait_time": 130,
       "max_wait_time": 587,
-      "median_wait_time": 340
+      "median_wait_time": 335
     },
     {
       "hospital_id": 72,
@@ -3405,10 +3405,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 350,
+      "avg_wait_time": 374,
       "min_wait_time": 95,
-      "max_wait_time": 542,
-      "median_wait_time": 348
+      "max_wait_time": 726,
+      "median_wait_time": 362
     },
     {
       "hospital_id": 72,
@@ -3416,10 +3416,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 343,
+      "avg_wait_time": 394,
       "min_wait_time": 127,
-      "max_wait_time": 563,
-      "median_wait_time": 328
+      "max_wait_time": 737,
+      "median_wait_time": 411
     },
     {
       "hospital_id": 72,
@@ -3427,10 +3427,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 347,
+      "avg_wait_time": 388,
       "min_wait_time": 123,
-      "max_wait_time": 569,
-      "median_wait_time": 352
+      "max_wait_time": 619,
+      "median_wait_time": 392
     },
     {
       "hospital_id": 72,
@@ -3438,10 +3438,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 386,
+      "avg_wait_time": 393,
       "min_wait_time": 209,
       "max_wait_time": 599,
-      "median_wait_time": 380
+      "median_wait_time": 387
     },
     {
       "hospital_id": 72,
@@ -3449,10 +3449,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 361,
+      "avg_wait_time": 375,
       "min_wait_time": 168,
-      "max_wait_time": 493,
-      "median_wait_time": 361
+      "max_wait_time": 613,
+      "median_wait_time": 372
     },
     {
       "hospital_id": 72,
@@ -3460,10 +3460,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 321,
+      "avg_wait_time": 313,
       "min_wait_time": 143,
       "max_wait_time": 560,
-      "median_wait_time": 323
+      "median_wait_time": 310
     },
     {
       "hospital_id": 73,
@@ -3471,10 +3471,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 217,
+      "avg_wait_time": 211,
       "min_wait_time": 30,
       "max_wait_time": 455,
-      "median_wait_time": 211
+      "median_wait_time": 204
     },
     {
       "hospital_id": 73,
@@ -3484,8 +3484,8 @@
       "day_of_week": 1,
       "avg_wait_time": 242,
       "min_wait_time": 30,
-      "max_wait_time": 538,
-      "median_wait_time": 235
+      "max_wait_time": 611,
+      "median_wait_time": 216
     },
     {
       "hospital_id": 73,
@@ -3493,10 +3493,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 245,
+      "avg_wait_time": 256,
       "min_wait_time": 33,
-      "max_wait_time": 568,
-      "median_wait_time": 231
+      "max_wait_time": 590,
+      "median_wait_time": 234
     },
     {
       "hospital_id": 73,
@@ -3504,10 +3504,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 185,
+      "avg_wait_time": 231,
       "min_wait_time": 30,
-      "max_wait_time": 433,
-      "median_wait_time": 170
+      "max_wait_time": 662,
+      "median_wait_time": 212
     },
     {
       "hospital_id": 73,
@@ -3515,10 +3515,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 204,
+      "avg_wait_time": 212,
       "min_wait_time": 33,
-      "max_wait_time": 436,
-      "median_wait_time": 196
+      "max_wait_time": 498,
+      "median_wait_time": 203
     },
     {
       "hospital_id": 73,
@@ -3526,10 +3526,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 189,
+      "avg_wait_time": 217,
       "min_wait_time": 30,
-      "max_wait_time": 382,
-      "median_wait_time": 200
+      "max_wait_time": 401,
+      "median_wait_time": 214
     },
     {
       "hospital_id": 73,
@@ -3537,10 +3537,10 @@
       "city_name": "Edmonton",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 201,
+      "avg_wait_time": 207,
       "min_wait_time": 30,
-      "max_wait_time": 429,
-      "median_wait_time": 196
+      "max_wait_time": 506,
+      "median_wait_time": 201
     },
     {
       "hospital_id": 74,
@@ -3548,10 +3548,10 @@
       "city_name": "Fort McMurray",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 74,
+      "avg_wait_time": 65,
       "min_wait_time": 30,
       "max_wait_time": 287,
-      "median_wait_time": 61
+      "median_wait_time": 51
     },
     {
       "hospital_id": 74,
@@ -3559,10 +3559,10 @@
       "city_name": "Fort McMurray",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 105,
+      "avg_wait_time": 90,
       "min_wait_time": 30,
       "max_wait_time": 290,
-      "median_wait_time": 93
+      "median_wait_time": 70
     },
     {
       "hospital_id": 74,
@@ -3570,10 +3570,10 @@
       "city_name": "Fort McMurray",
       "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 122,
+      "avg_wait_time": 106,
       "min_wait_time": 30,
       "max_wait_time": 399,
-      "median_wait_time": 94
+      "median_wait_time": 71
     },
     {
       "hospital_id": 74,
@@ -3581,10 +3581,10 @@
       "city_name": "Fort McMurray",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 95,
+      "avg_wait_time": 108,
       "min_wait_time": 30,
-      "max_wait_time": 296,
-      "median_wait_time": 94
+      "max_wait_time": 406,
+      "median_wait_time": 102
     },
     {
       "hospital_id": 74,
@@ -3592,10 +3592,10 @@
       "city_name": "Fort McMurray",
       "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 73,
+      "avg_wait_time": 80,
       "min_wait_time": 30,
-      "max_wait_time": 223,
-      "median_wait_time": 56
+      "max_wait_time": 356,
+      "median_wait_time": 58
     },
     {
       "hospital_id": 74,
@@ -3603,10 +3603,10 @@
       "city_name": "Fort McMurray",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 55,
+      "avg_wait_time": 52,
       "min_wait_time": 30,
       "max_wait_time": 143,
-      "median_wait_time": 42
+      "median_wait_time": 39
     },
     {
       "hospital_id": 74,
@@ -3614,10 +3614,10 @@
       "city_name": "Fort McMurray",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 52,
+      "avg_wait_time": 53,
       "min_wait_time": 30,
       "max_wait_time": 180,
-      "median_wait_time": 35
+      "median_wait_time": 42
     },
     {
       "hospital_id": 75,
@@ -3625,7 +3625,7 @@
       "city_name": "Lethbridge",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 63,
+      "avg_wait_time": 59,
       "min_wait_time": 30,
       "max_wait_time": 274,
       "median_wait_time": 41
@@ -3636,9 +3636,42 @@
       "city_name": "Lethbridge",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 80,
+      "avg_wait_time": 83,
       "min_wait_time": 30,
       "max_wait_time": 261,
+      "median_wait_time": 78
+    },
+    {
+      "hospital_id": 75,
+      "hospital_name": "Chinook Regional Hospital",
+      "city_name": "Lethbridge",
+      "province_name": "Alberta",
+      "day_of_week": 2,
+      "avg_wait_time": 101,
+      "min_wait_time": 30,
+      "max_wait_time": 328,
+      "median_wait_time": 82
+    },
+    {
+      "hospital_id": 75,
+      "hospital_name": "Chinook Regional Hospital",
+      "city_name": "Lethbridge",
+      "province_name": "Alberta",
+      "day_of_week": 3,
+      "avg_wait_time": 92,
+      "min_wait_time": 30,
+      "max_wait_time": 265,
+      "median_wait_time": 81
+    },
+    {
+      "hospital_id": 75,
+      "hospital_name": "Chinook Regional Hospital",
+      "city_name": "Lethbridge",
+      "province_name": "Alberta",
+      "day_of_week": 4,
+      "avg_wait_time": 79,
+      "min_wait_time": 30,
+      "max_wait_time": 388,
       "median_wait_time": 53
     },
     {
@@ -3646,44 +3679,11 @@
       "hospital_name": "Chinook Regional Hospital",
       "city_name": "Lethbridge",
       "province_name": "Alberta",
-      "day_of_week": 2,
-      "avg_wait_time": 106,
-      "min_wait_time": 30,
-      "max_wait_time": 328,
-      "median_wait_time": 84
-    },
-    {
-      "hospital_id": 75,
-      "hospital_name": "Chinook Regional Hospital",
-      "city_name": "Lethbridge",
-      "province_name": "Alberta",
-      "day_of_week": 3,
+      "day_of_week": 5,
       "avg_wait_time": 89,
       "min_wait_time": 30,
-      "max_wait_time": 265,
-      "median_wait_time": 80
-    },
-    {
-      "hospital_id": 75,
-      "hospital_name": "Chinook Regional Hospital",
-      "city_name": "Lethbridge",
-      "province_name": "Alberta",
-      "day_of_week": 4,
-      "avg_wait_time": 75,
-      "min_wait_time": 30,
-      "max_wait_time": 388,
-      "median_wait_time": 46
-    },
-    {
-      "hospital_id": 75,
-      "hospital_name": "Chinook Regional Hospital",
-      "city_name": "Lethbridge",
-      "province_name": "Alberta",
-      "day_of_week": 5,
-      "avg_wait_time": 86,
-      "min_wait_time": 30,
       "max_wait_time": 327,
-      "median_wait_time": 60
+      "median_wait_time": 73
     },
     {
       "hospital_id": 75,
@@ -3691,10 +3691,10 @@
       "city_name": "Lethbridge",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 57,
+      "avg_wait_time": 59,
       "min_wait_time": 30,
       "max_wait_time": 215,
-      "median_wait_time": 46
+      "median_wait_time": 44
     },
     {
       "hospital_id": 76,
@@ -3702,10 +3702,10 @@
       "city_name": "Medicine Hat",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 102,
+      "avg_wait_time": 95,
       "min_wait_time": 30,
       "max_wait_time": 300,
-      "median_wait_time": 93
+      "median_wait_time": 82
     },
     {
       "hospital_id": 76,
@@ -3713,10 +3713,10 @@
       "city_name": "Medicine Hat",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 114,
+      "avg_wait_time": 113,
       "min_wait_time": 30,
       "max_wait_time": 239,
-      "median_wait_time": 117
+      "median_wait_time": 116
     },
     {
       "hospital_id": 76,
@@ -3724,10 +3724,10 @@
       "city_name": "Medicine Hat",
       "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 123,
+      "avg_wait_time": 116,
       "min_wait_time": 30,
       "max_wait_time": 272,
-      "median_wait_time": 125
+      "median_wait_time": 109
     },
     {
       "hospital_id": 76,
@@ -3735,10 +3735,10 @@
       "city_name": "Medicine Hat",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 100,
+      "avg_wait_time": 108,
       "min_wait_time": 30,
       "max_wait_time": 273,
-      "median_wait_time": 103
+      "median_wait_time": 108
     },
     {
       "hospital_id": 76,
@@ -3746,10 +3746,10 @@
       "city_name": "Medicine Hat",
       "province_name": "Alberta",
       "day_of_week": 4,
-      "avg_wait_time": 88,
+      "avg_wait_time": 84,
       "min_wait_time": 30,
       "max_wait_time": 216,
-      "median_wait_time": 78
+      "median_wait_time": 74
     },
     {
       "hospital_id": 76,
@@ -3757,10 +3757,10 @@
       "city_name": "Medicine Hat",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 99,
+      "avg_wait_time": 111,
       "min_wait_time": 30,
       "max_wait_time": 343,
-      "median_wait_time": 50
+      "median_wait_time": 93
     },
     {
       "hospital_id": 76,
@@ -3768,7 +3768,7 @@
       "city_name": "Medicine Hat",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 121,
+      "avg_wait_time": 118,
       "min_wait_time": 30,
       "max_wait_time": 365,
       "median_wait_time": 109
@@ -3779,10 +3779,10 @@
       "city_name": "Grande Prairie",
       "province_name": "Alberta",
       "day_of_week": 0,
-      "avg_wait_time": 103,
+      "avg_wait_time": 102,
       "min_wait_time": 30,
       "max_wait_time": 289,
-      "median_wait_time": 92
+      "median_wait_time": 86
     },
     {
       "hospital_id": 81,
@@ -3790,7 +3790,7 @@
       "city_name": "Grande Prairie",
       "province_name": "Alberta",
       "day_of_week": 1,
-      "avg_wait_time": 128,
+      "avg_wait_time": 121,
       "min_wait_time": 30,
       "max_wait_time": 419,
       "median_wait_time": 96
@@ -3801,10 +3801,10 @@
       "city_name": "Grande Prairie",
       "province_name": "Alberta",
       "day_of_week": 2,
-      "avg_wait_time": 129,
+      "avg_wait_time": 125,
       "min_wait_time": 30,
       "max_wait_time": 422,
-      "median_wait_time": 91
+      "median_wait_time": 90
     },
     {
       "hospital_id": 81,
@@ -3812,10 +3812,10 @@
       "city_name": "Grande Prairie",
       "province_name": "Alberta",
       "day_of_week": 3,
-      "avg_wait_time": 98,
+      "avg_wait_time": 106,
       "min_wait_time": 30,
-      "max_wait_time": 307,
-      "median_wait_time": 79
+      "max_wait_time": 402,
+      "median_wait_time": 87
     },
     {
       "hospital_id": 81,
@@ -3826,7 +3826,7 @@
       "avg_wait_time": 112,
       "min_wait_time": 30,
       "max_wait_time": 333,
-      "median_wait_time": 96
+      "median_wait_time": 95
     },
     {
       "hospital_id": 81,
@@ -3834,10 +3834,10 @@
       "city_name": "Grande Prairie",
       "province_name": "Alberta",
       "day_of_week": 5,
-      "avg_wait_time": 94,
+      "avg_wait_time": 93,
       "min_wait_time": 30,
       "max_wait_time": 294,
-      "median_wait_time": 82
+      "median_wait_time": 77
     },
     {
       "hospital_id": 81,
@@ -3845,11 +3845,11 @@
       "city_name": "Grande Prairie",
       "province_name": "Alberta",
       "day_of_week": 6,
-      "avg_wait_time": 137,
+      "avg_wait_time": 131,
       "min_wait_time": 30,
       "max_wait_time": 336,
-      "median_wait_time": 131
+      "median_wait_time": 123
     }
   ],
-  "export_date": "2025-02-26"
+  "export_date": "2025-03-06"
 }
